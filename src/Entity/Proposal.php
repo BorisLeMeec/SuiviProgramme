@@ -73,6 +73,11 @@ class Proposal
      */
     private $progressionType = Proposal::PROGRESSION_NONE;
 
+    /**
+     * @ORM\Column(type="integer")
+     */
+    private $likes;
+
     public function __construct()
     {
         $this->category = new ArrayCollection();
@@ -177,6 +182,18 @@ class Proposal
     public function setProgressionType(int $progressionType): self
     {
         $this->progressionType = $progressionType;
+
+        return $this;
+    }
+
+    public function getLikes(): ?int
+    {
+        return $this->likes;
+    }
+
+    public function setLikes(int $likes): self
+    {
+        $this->likes = $likes;
 
         return $this;
     }
