@@ -46,7 +46,7 @@ class Proposal
     /**
      * @ORM\Column(type="string", length=255)
      */
-    private $title;
+    private $title = '';
 
     /**
      * @ORM\Column(type="blob")
@@ -76,13 +76,18 @@ class Proposal
     /**
      * @ORM\Column(type="integer")
      */
-    private $likes;
+    private $likes = 0;
 
     /**
      * @ORM\ManyToOne(targetEntity="App\Entity\Person", inversedBy="proposals")
      * @ORM\JoinColumn(nullable=false)
      */
     private $person;
+
+    /**
+     * @ORM\Column(type="string", length=255)
+     */
+    private $slug;
 
     public function __construct()
     {
@@ -212,6 +217,18 @@ class Proposal
     public function setPerson(?Person $person): self
     {
         $this->person = $person;
+
+        return $this;
+    }
+
+    public function getSlug(): ?string
+    {
+        return $this->slug;
+    }
+
+    public function setSlug(string $slug): self
+    {
+        $this->slug = $slug;
 
         return $this;
     }

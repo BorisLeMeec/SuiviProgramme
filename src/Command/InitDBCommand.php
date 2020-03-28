@@ -10,6 +10,7 @@ namespace App\Command;
 
 use App\Entity\Category;
 use App\Entity\Person;
+use App\Entity\Proposal;
 use Doctrine\ORM\EntityManagerInterface;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
@@ -45,6 +46,7 @@ class InitDBCommand extends Command
         ]);
 
         $this->loadCategories($input, $output);
+        $this->loadPersons($input, $output);
 
         return 0;
     }
@@ -121,8 +123,26 @@ class InitDBCommand extends Command
 
         foreach ($persons as $person) {
             $newP = new Person();
+            $this->em->persist($newP);
 
-            $newP->setName('');
+            $newP->setName($person['tetes'][0]['prenom'] . ' ' . $person['tetes'][0]['nom']);
+
+            foreach ($person['propositions'] as $proposition) {
+                $proposal = new Proposal();
+                $this->em->persist($proposal);
+
+                $newP->addProposal($proposal);
+
+                $proposal->setSlug($proposition['id']);
+                $proposal->setDescription($proposition['label']);
+
+                $cat = $this->em->getRepository(Category::class)
+                    ->findOneBy(['slug' => $proposition['st']]);
+
+                $proposal->addCategory($cat);
+            }
         }
+
+        $this->em->flush();
     }
 }
