@@ -30,9 +30,25 @@ class Category
      */
     private $proposals;
 
+    /**
+     * @ORM\ManyToOne(targetEntity="App\Entity\Category", inversedBy="childs")
+     */
+    private $parent;
+
+    /**
+     * @ORM\OneToMany(targetEntity="App\Entity\Category", mappedBy="parent")
+     */
+    private $childs;
+
+    /**
+     * @ORM\Column(type="string", length=255, nullable=true)
+     */
+    private $slug;
+
     public function __construct()
     {
         $this->proposals = new ArrayCollection();
+        $this->childs = new ArrayCollection();
     }
 
     public function getId(): ?int
@@ -76,6 +92,61 @@ class Category
             $this->proposals->removeElement($proposal);
             $proposal->removeCategory($this);
         }
+
+        return $this;
+    }
+
+    public function getParent(): ?self
+    {
+        return $this->parent;
+    }
+
+    public function setParent(?self $parent): self
+    {
+        $this->parent = $parent;
+
+        return $this;
+    }
+
+    /**
+     * @return Collection|self[]
+     */
+    public function getChilds(): Collection
+    {
+        return $this->childs;
+    }
+
+    public function addChild(self $child): self
+    {
+        if (!$this->childs->contains($child)) {
+            $this->childs[] = $child;
+            $child->setParent($this);
+        }
+
+        return $this;
+    }
+
+    public function removeChild(self $child): self
+    {
+        if ($this->childs->contains($child)) {
+            $this->childs->removeElement($child);
+            // set the owning side to null (unless already changed)
+            if ($child->getParent() === $this) {
+                $child->setParent(null);
+            }
+        }
+
+        return $this;
+    }
+
+    public function getSlug(): ?string
+    {
+        return $this->slug;
+    }
+
+    public function setSlug(string $slug): self
+    {
+        $this->slug = $slug;
 
         return $this;
     }

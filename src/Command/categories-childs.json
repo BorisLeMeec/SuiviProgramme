@@ -1,0 +1,134 @@
+[
+  {
+    "label": "Economie numérique",
+    "id": "st-1"
+  },
+  {
+    "label": "Economie sociale et solidaire",
+    "id": "st-2"
+  },
+  {
+    "label": "Economie circulaire",
+    "id": "st-3"
+  },
+  {
+    "label": "Scolarité",
+    "id": "st-4"
+  },
+  {
+    "label": "Enfance et petite enfance",
+    "id": "st-5"
+  },
+  {
+    "label": "Propreté",
+    "id": "st-6"
+  },
+  {
+    "label": "Ecologie",
+    "id": "st-7"
+  },
+  {
+    "label": "Energie renouvelable",
+    "id": "st-8"
+  },
+  {
+    "label": "Culture",
+    "id": "st-9"
+  },
+  {
+    "label": "Démocratie locale",
+    "id": "st-10"
+  },
+  {
+    "label": "Sport",
+    "id": "st-11"
+  },
+  {
+    "label": "Santé publique",
+    "id": "st-12"
+  },
+  {
+    "label": "Aides sociales",
+    "id": "st-13"
+  },
+  {
+    "label": "Restauration",
+    "id": "st-14"
+  },
+  {
+    "label": "Logement",
+    "id": "st-15"
+  },
+  {
+    "label": "Emploi et travail",
+    "id": "st-16"
+  },
+  {
+    "label": "Institution",
+    "id": "st-17"
+  },
+  {
+    "label": "Rayonnement",
+    "id": "st-18"
+  },
+  {
+    "label": "Police municipale",
+    "id": "st-19"
+  },
+  {
+    "label": "Vélo",
+    "id": "st-20"
+  },
+  {
+    "label": "Métro",
+    "id": "st-21"
+  },
+  {
+    "label": "Multiples",
+    "id": "st-22"
+  },
+  {
+    "label": "Infrastructures",
+    "id": "st-23"
+  },
+  {
+    "label": "Bus",
+    "id": "st-24"
+  },
+  {
+    "label": "Autres",
+    "id": "st-25"
+  },
+  {
+    "label": "Train",
+    "id": "st-26"
+  },
+  {
+    "label": "Accessibilité",
+    "id": "st-27"
+  },
+  {
+    "label": "Commerce",
+    "id": "st-28"
+  },
+  {
+    "label": "Jeunesse",
+    "id": "st-29"
+  },
+  {
+    "label": "Entreprises",
+    "id": "st-30"
+  },
+  {
+    "label": "Enseignement supérieur",
+    "id": "st-31"
+  },
+  {
+    "label": "Associatif",
+    "id": "st-32"
+  },
+  {
+    "label": "Services publics",
+    "id": "st-33"
+  }
+]

@@ -78,6 +78,12 @@ class Proposal
      */
     private $likes;
 
+    /**
+     * @ORM\ManyToOne(targetEntity="App\Entity\Person", inversedBy="proposals")
+     * @ORM\JoinColumn(nullable=false)
+     */
+    private $person;
+
     public function __construct()
     {
         $this->category = new ArrayCollection();
@@ -194,6 +200,18 @@ class Proposal
     public function setLikes(int $likes): self
     {
         $this->likes = $likes;
+
+        return $this;
+    }
+
+    public function getPerson(): ?Person
+    {
+        return $this->person;
+    }
+
+    public function setPerson(?Person $person): self
+    {
+        $this->person = $person;
 
         return $this;
     }

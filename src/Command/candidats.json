@@ -1,0 +1,3036 @@
+[
+  {
+    "id": "appere",
+    "tetes": [{
+      "prenom": "Nathalie",
+      "nom": "Appéré"
+    }],
+    "partis": "PS-PC-G·s-PRG-PP",
+    "liste": "Pour Rennes",
+    "website": "avecnathalieappere.fr",
+    "twitter": "Appere_2020",
+    "twitterFollowers": "797",
+    "facebook": "avecnathalieappere",
+    "facebookFollowers": "444",
+    "propositions": [{
+        "id": "appere-p-1",
+        "st": "st-21",
+        "label": "Créer 5 lignes express de tramways sur roues connectées au métro",
+        "important": true
+      },
+      {
+        "id": "appere-p-2",
+        "st": "st-13",
+        "label": "Baisser fortement les tarifs des abonnements STAR en particulier pour les moins de 25 ans",
+        "important": true
+      },
+      {
+        "id": "appere-p-3",
+        "st": "st-23",
+        "label": "Aménager des places et des rues-jardins dans le centre-ville"
+      },
+      {
+        "id": "appere-p-4",
+        "st": "st-12",
+        "label": "Ouvrir des maisons de santé dans les quartiers pour garantir l’accès aux soins"
+      },
+      {
+        "id": "appere-p-5",
+        "st": "st-19",
+        "label": "Créer une police municipale de nuit et une brigade anti-incivilités",
+        "important": true
+      },
+      {
+        "id": "appere-p-6",
+        "st": "st-7",
+        "label": "Transformer le parking Vilaine en un grand espace vert et convivial"
+      },
+      {
+        "id": "appere-p-7",
+        "st": "st-22",
+        "label": "Faire circuler des navettes électriques dans le centre-ville piétonnier"
+      },
+      {
+        "id": "appere-p-8",
+        "st": "st-13",
+        "label": "Travailler à un lieu d’accueil permanent pour les femmes victimes de violence"
+      },
+      {
+        "id": "appere-p-9",
+        "st": "st-7",
+        "label": "Planter 30 000 arbres durant le mandat"
+      },
+      {
+        "id": "appere-p-10",
+        "st": "st-20",
+        "label": "Déployer un réseau express vélo dans la métropole et des pistes sécurisées dans les communes"
+      },
+      {
+        "id": "appere-p-11",
+        "st": "st-2",
+        "label": "Créer une Réserve Citoyenne de bénévoles pour les associations"
+      },
+      {
+        "id": "appere-p-12",
+        "st": "st-23",
+        "label": "Acquérir la prison Jacques-Cartier",
+        "important": true
+      },
+      {
+        "id": "appere-p-13",
+        "st": "st-9",
+        "label": "Gratuité de l'abonnement aux bibliothèques et des musées"
+      },
+      {
+        "id": "appere-p-14",
+        "st": "st-13",
+        "label": "Délivrer automatiquement la carte Sortir"
+      },
+      {
+        "id": "appere-p-15",
+        "st": "st-9",
+        "label": "Rénover et agrandir le Musée des Beaux-arts"
+      },
+      {
+        "id": "appere-p-16",
+        "st": "st-9",
+        "label": "Ouvrir un lieu dédié à la photographie"
+      },
+      {
+        "id": "appere-p-17",
+        "st": "st-23",
+        "label": "Transformer l’ancien réservoir des Gallets"
+      },
+      {
+        "id": "appere-p-18",
+        "st": "st-9",
+        "label": "Multiplier les lieux de culture dans les quartiers"
+      },
+      {
+        "id": "appere-p-19",
+        "st": "st-9",
+        "label": "Un grand rendez-vous culturel estival autour de l'art contemporain"
+      },
+      {
+        "id": "appere-p-20",
+        "st": "st-9",
+        "label": "Attribuer une bourse au moment de la première création artistique"
+      },
+      {
+        "id": "appere-p-21",
+        "st": "st-9",
+        "label": "Instaurer des « Cartes blanches » pour les jeunes"
+      },
+      {
+        "id": "appere-p-22",
+        "st": "st-11",
+        "label": "Un centre aqualudique à Villejean"
+      },
+      {
+        "id": "appere-p-23",
+        "st": "st-23",
+        "label": "Rénovation thermique de tous les gymnases"
+      },
+      {
+        "id": "appere-p-23",
+        "st": "st-11",
+        "label": "Une salle de 2 500 places dédiée au sport collectif"
+      },
+      {
+        "id": "appere-p-23",
+        "st": "st-11",
+        "label": "Une halle sportive au Blosne"
+      },
+      {
+        "id": "appere-p-24",
+        "st": "st-11",
+        "label": "Rénover la piste d’athlétisme du stade Courtemanche"
+      },
+      {
+        "id": "appere-p-25",
+        "st": "st-11",
+        "label": "Créer un pôle sportif rugby au stade Alain-Crubillé"
+      },
+      {
+        "id": "appere-p-26",
+        "st": "st-11",
+        "label": "Rennes centre de préparation des JO 2024"
+      },
+      {
+        "id": "appere-p-27",
+        "st": "st-11",
+        "label": "Soutenir le sport-santé"
+      },
+      {
+        "id": "appere-p-28",
+        "st": "st-16",
+        "label": "Un Quartier de la Création sur le site de l'ancien Technicentre",
+        "important": true
+      },
+      {
+        "id": "appere-p-29",
+        "st": "st-16",
+        "label": "Un plan pour l'emploi et la formation"
+      },
+      {
+        "id": "appere-p-30",
+        "st": "st-16",
+        "label": "Un campus industriel sur le site de La Janais"
+      },
+      {
+        "id": "appere-p-31",
+        "st": "st-12",
+        "label": "Des « maisons de retraite à domicile »"
+      },
+      {
+        "id": "appere-p-32",
+        "st": "st-5",
+        "label": "Un départ en vacances pour les enfants qui en sont privés",
+        "important": true
+      },
+      {
+        "id": "appere-p-33",
+        "st": "st-5",
+        "label": "Des goûters gratuits dans les écoles"
+      },
+      {
+        "id": "appere-p-34",
+        "st": "st-5",
+        "label": "Un centre aqualudique à Villejean"
+      },
+      {
+        "id": "appere-p-35",
+        "st": "st-5",
+        "label": "Créer 350 places en crèche"
+      },
+      {
+        "id": "appere-p-36",
+        "st": "st-29",
+        "label": "Gratuité des abonnements Star pour les -12 ans"
+      },
+      {
+        "id": "appere-p-37",
+        "st": "st-5",
+        "label": "Ouvrir de nouvelles écoles et rénover les existantes"
+      },
+      {
+        "id": "appere-p-38",
+        "st": "st-29",
+        "label": "Un grand plan d’éducation au numérique avec l’Edulab et les FabLabs"
+      },
+      {
+        "id": "appere-p-39",
+        "st": "st-13",
+        "label": "Un plan de sortie de la pauvreté"
+      },
+      {
+        "id": "appere-p-40",
+        "st": "st-13",
+        "label": "Ouvrir un centre municipal d’hébergement d’urgence",
+        "important": true
+      },
+      {
+        "id": "appere-p-41",
+        "st": "st-13",
+        "label": "Créer des conciergeries de quartier"
+      },
+      {
+        "id": "appere-p-42",
+        "st": "st-23",
+        "label": "Une charte de la concertation pour les projets de construction"
+      },
+      {
+        "id": "appere-p-43",
+        "st": "st-24",
+        "label": "Tester les arrêts à la demande sur les lignes de bus"
+      },
+      {
+        "id": "appere-p-44",
+        "st": "st-27",
+        "label": "Ouvrir une Maison du Handicap"
+      },
+      {
+        "id": "appere-p-45",
+        "st": "st-6",
+        "label": "Poursuivre l'adaptation des services de propreté au rythme de la ville"
+      },
+      {
+        "id": "appere-p-46",
+        "st": "st-17",
+        "label": "Pas de hausse des impôts locaux",
+        "important": true
+      },
+      {
+        "id": "appere-p-47",
+        "st": "st-23",
+        "label": "Lancer un plan de rénovation thermique des bâtiments municipaux"
+      },
+      {
+        "id": "appere-p-48",
+        "st": "st-7",
+        "label": "Extension du parc des prairies Saint-Martin"
+      },
+      {
+        "id": "appere-p-49",
+        "st": "st-15",
+        "label": "Accompagner la rénovation thermique de 47 000 logements"
+      },
+      {
+        "id": "appere-p-50",
+        "st": "st-19",
+        "label": "Ouvrir une Maison de la Tranquillité publique au palais Saint-Georges"
+      },
+      {
+        "id": "appere-p-51",
+        "st": "st-12",
+        "label": "Lutter contre l'alcoolisation excessive"
+      },
+      {
+        "id": "appere-p-52",
+        "st": "st-13",
+        "label": "Renforcer les gratuités sociales et les tarifications solidaires"
+      },
+      {
+        "id": "appere-p-53",
+        "st": "st-13",
+        "label": "Maintenir la bonne santé financière"
+      },
+      {
+        "id": "appere-p-54",
+        "st": "st-25",
+        "label": "Remplacer les véhicules thermiques par des véhicules électriques ou au gaz"
+      },
+      {
+        "id": "appere-p-55",
+        "st": "st-13",
+        "label": "Instaurer des jurys citoyens"
+      },
+      {
+        "id": "appere-p-56",
+        "st": "st-10",
+        "label": "Multiplier les budgets participatifs"
+      },
+      {
+        "id": "appere-p-57",
+        "st": "st-10",
+        "label": "Rendre systématiques les comités d'usagers"
+      },
+      {
+        "id": "appere-p-58",
+        "st": "st-10",
+        "label": "Ouvrir une Maison de la Fabrique citoyenne"
+      },
+      {
+        "id": "appere-p-59",
+        "st": "st-7",
+        "label": "Découvrir la Vilaine sur la place de la République"
+      },
+      {
+        "id": "appere-p-60",
+        "st": "st-7",
+        "label": "Relier les quartiers par un parc en réseau"
+      },
+      {
+        "id": "appere-p-61",
+        "st": "st-7",
+        "label": "Un plan biodiversité à l'échelle de la métropole"
+      },
+      {
+        "id": "appere-p-62",
+        "st": "st-7",
+        "label": "Limiter l'artificialisation des sols"
+      },
+      {
+        "id": "appere-p-63",
+        "st": "st-29",
+        "label": "Ouvrir un guichet unique pour l'accueil des nouveaux étudiants"
+      },
+      {
+        "id": "appere-p-64",
+        "st": "st-29",
+        "label": "Un plan de lutte contre la précarité étudiante"
+      },
+      {
+        "id": "appere-p-65",
+        "st": "st-16",
+        "label": "Renforcer le Plan emploi quartier"
+      },
+      {
+        "id": "appere-p-66",
+        "st": "st-16",
+        "label": "Créer des pépinières économiques de quartier"
+      },
+      {
+        "id": "appere-p-67",
+        "st": "st-28",
+        "label": "Des locaux commerciaux et artisanaux en location-accession"
+      },
+      {
+        "id": "appere-p-68",
+        "st": "st-28",
+        "label": "Soutenir la renaissance du Palais du Commerce"
+      },
+      {
+        "id": "appere-p-69",
+        "st": "st-28",
+        "label": "Accompagner la relance et la rénovation du Colombia"
+      },
+      {
+        "id": "appere-p-70",
+        "st": "st-28",
+        "label": "Conforter tous les pôles commerciaux de quartier"
+      },
+      {
+        "id": "appere-p-71",
+        "st": "st-28",
+        "label": "Un village d'artisans dans le centre ancien"
+      },
+      {
+        "id": "appere-p-72",
+        "st": "st-28",
+        "label": "Abandon du projet OpenSky"
+      },
+      {
+        "id": "appere-p-73",
+        "st": "st-23",
+        "label": "Des contrats de coopération avec les intercommunalités voisines"
+      },
+      {
+        "id": "appere-p-74",
+        "st": "st-9",
+        "label": "Promouvoir les langues et les cultures de Bretagne"
+      },
+      {
+        "id": "appere-p-75",
+        "st": "st-19",
+        "label": "Recruter 40 policiers municipaux",
+        "important": true
+      },
+      {
+        "id": "appere-p-76",
+        "st": "st-14",
+        "label": "Proposer des repas 100% bio ou locaux dès 2025",
+        "important": true
+      }
+    ]
+  },
+  {
+    "id": "verts",
+    "tetes": [
+      {
+      "prenom": "Matthieu",
+      "nom": "Theurier"
+      },
+      {
+        "prenom": "Priscilla",
+        "nom": "Zamord"
+      }
+    ],
+    "parti": "EELV-UDB-ND",
+    "liste": "Choisir l'écologie pour Rennes",
+    "website": "rennes-ecologie.bzh",
+    "twitter": "Rennes_Ecologie",
+    "twitterFollowers": "415",
+    "facebook": "RennesEcologie",
+    "facebookFollowers": "1009",
+    "propositions": [{
+      "st": "st-2",
+      "label": "Plus de moyens financiers dédiés spécifiquement au développement de structures ESS (consolider l'appel à projets ESS de Rennes métropole, des outils dédiés au changement d'échelle et à la recherche et développement)",
+      "id": "verts-p-1",
+      "important": true
+    },
+      {
+        "st": "st-2",
+        "label": "Un revenu de transition écologique pour les porteurs de projets à impact écologique et social positif",
+        "id": "verts-p-2"
+      },
+      {
+        "st": "st-2",
+        "label": "Une société foncière pour des locaux moins chers pour les structures de l'ESS, les commerces de proximité et les tiers-lieux",
+        "id": "verts-p-4",
+        "important": true
+      },
+      {
+        "st": "st-2",
+        "label": "Systématiser le développement de lieux éphémères/modulaires sur les projets urbains",
+        "id": "verts-p-4"
+      },
+      {
+        "st": "st-2",
+        "label": "Faciliter le regroupement des acteurs de l'ESS sur plusieurs sites à travers la ville comme au Quadri ",
+        "id": "verts-p-4"
+      },
+      {
+        "st": "st-28",
+        "label": "Un Fonds Rennes Métropole Commerce Artisanat pour soutenir les commerces de proximité et l'artisanat en difficulté et aider à l'installation ou la reprise d'activités",
+        "id": "verts-p-10",
+        "important": true
+      },
+      {
+        "st": "st-28",
+        "label": "Interdiction d'ouverture des grands pôles commerciaux le dimanche",
+        "id": "verts-p-21"
+      },
+      {
+        "st": "st-28",
+        "label": "Réviser le plan commerce du centre-ville en y intégrant les dimensions du développement durable",
+        "id": "verts-p-13",
+        "important": true
+      },
+      {
+        "st": "st-30",
+        "label": "Adapter les aides économiques pour servir aux entreprises de toutes les tailles et les conditionner à des critères sociaux, environnementaux et de lutte contre les discriminations",
+        "id": "verts-p-23",
+        "important": true
+      },
+      {
+        "st": "st-30",
+        "label": "Une meilleure répartition des aides économiques pour qu'elles bénéficient à tous les quartiers et à toute la métropole",
+        "id": "verts-p-5",
+        "important": true
+      },
+      {
+        "st": "st-30",
+        "label": "Ré-industrialisation du site de la Janais autour des mobilités décarbonnées et l'éco-construction",
+        "id": "verts-p-21"
+      },
+      {
+        "st": "st-3",
+        "label": "Un schéma du réemploi avec des objectifs et des moyens ambitieux, soutien aux entreprises déjà engagées dans le réemploi",
+        "id": "verts-p-200"
+      },
+      {
+        "st": "st-3",
+        "label": "Permis de démolir conditionné à la mise en place d'une fiche identifiant les matériaux et produits réemployables transmise aux structures de réemploi locales",
+        "id": "verts-p-204"
+      },
+      {
+        "st": "st-3",
+        "label": "Un appel à projets dédié aux éco-activités et à l'économie circulaire",
+        "id": "verts-p-204",
+        "important": true
+      },
+      {
+        "st": "st-5",
+        "label": "300 à 400 nouvelles places en crèches, étudier la construction de 5 à 6 groupes scolaires",
+        "id": "verts-p-26",
+        "important": true
+      },
+      {
+        "st": "st-5",
+        "label": "Lancer un grand plan d'éducation à la nature de la crèche à l'école et dans les centres de loisirs",
+        "id": "verts-p-27",
+        "important": true
+      },
+      {
+        "st": "st-5",
+        "label": "Obtention du label écolo-crèche pour les crèches municipales (engagement écologique fort)",
+        "id": "verts-p-28",
+        "important": true
+      },
+      {
+        "st": "st-5",
+        "label": "Un budget participatif des écolier.e.s",
+        "id": "verts-p-35"
+      },
+      {
+        "st": "st-5",
+        "label": "Soutien à l'apprentissage du breton, des langues et culutures des familes d'origines étrangères et de la LSF",
+        "id": "verts-p-35"
+      },
+      {
+        "st": "st-29",
+        "label": "Un appel à projets spécifique pour soutenir l'emploi des jeunes et la création d'activité par les jeunes",
+        "id": "verts-p-35"
+      },
+      {
+        "st": "st-29",
+        "label": "Une garantie locative accessible pour tous les jeunes qui en ont besoin et un plan pour le logement étudiant avec guichet unique pour faciliter les recherches et permettre l'accès à un logement de sualité",
+        "id": "verts-p-35"
+      },
+      {
+        "st": "st-31",
+        "label": "Des campus durables et ouverts sur la ville, un soutien renforcé aux associations étudiantes",
+        "id": "verts-p-35"
+      },
+      {
+        "st": "st-31",
+        "label": "Un observatoire de la vie étudiante à Rennes",
+        "id": "verts-p-35"
+      },
+      {
+        "st": "st-32",
+        "label": "Maintien du niveau de soutien de la ville aux associations, aucune baisse du budget global",
+        "id": "verts-p-35",
+        "important": true
+      },
+      {
+        "st": "st-32",
+        "label": "Des Etats Généraux de la vie associative avant 2023",
+        "id": "verts-p-35",
+        "important": true
+      },
+      {
+        "st": "st-32",
+        "label": "Une subvention aux emplois associatifs d'intérêt métropolitain pour des emplois stables, non précaires et qui répondent aux besoins locaux",
+        "id": "verts-p-35",
+        "important": true
+      },
+      {
+        "st": "st-32",
+        "label": "Une enveloppe budgétaire agile pour accompagner les innovations et expérimentations",
+        "id": "verts-p-35",
+        "important": true
+      },
+      {
+        "st": "st-9",
+        "label": "Non au Zenith, oui la rénovation et la construction d'équipements culturels de proximité qui favorisent la diversité (un lieu de concerts, pour les arts de la rue et du cirque, pour l'image animé, etc.)",
+        "id": "verts-p-105",
+        "important": true
+      },
+      {
+        "st": "st-9",
+        "label": "Une action longue d'éducation artistique et culturelle pour 100% des enfants scolarisés",
+        "id": "verts-p-107"
+      },
+      {
+        "st": "st-9",
+        "label": "Soutien aux langues de Bretagne, notamment dans la vie quotidienne et les services publics",
+        "id": "verts-p-119"
+      },
+      {
+        "st": "st-9",
+        "label": "Renforcer le soutien à Diwan",
+        "id": "verts-p-109"
+      },
+      {
+        "st": "st-9",
+        "label": "Améliorer l'attractivité des formations en breton pour les adultes et particulièrement les agents municipaux",
+        "id": "verts-p-109"
+      },
+      {
+        "st": "st-11",
+        "label": "Soutien aux structures qui développent des sectons feminines et qui intègrent des femmes et les jeunes dans la gestion de la structure",
+        "id": "verts-p-109"
+      },
+      {
+        "st": "st-11",
+        "label": "Développer la place des filières handisport",
+        "id": "verts-p-125"
+      },
+      {
+        "st": "st-11",
+        "label": "Nouveaux équipements sportifs dans les quartiers (Beauregard, Jean Coquelin, Haut Sancé)",
+        "id": "verts-p-127",
+        "important": true
+      },
+      {
+        "st": "st-11",
+        "label": "Non à l'Arena, oui à l'adaptation des équipements actuels à l'évolution des pratiques et au sport de haut niveau",
+        "id": "verts-p-127",
+        "important": true
+      },
+      {
+        "st": "st-10",
+        "label": "Révision de la charte de la démocratie locale avec les habitant.e.s",
+        "id": "verts-p-97",
+        "important": true
+      },
+      {
+        "st": "st-10",
+        "label": "Plus de moyens pour le budget participatif, création de budgets participatifs thématiques sur Rennes Métropole et par secteurs ",
+        "id": "verts-p-98",
+        "important": true
+      },
+      {
+        "st": "st-10",
+        "label": "Elaboration d'une méthode participative pour les projets d'urbanisme et d'aménagement et expérimentation des jurys citoyens pour les grands projets urbains",
+        "id": "verts-p-100",
+        "important": true
+      },
+      {
+        "st": "st-10",
+        "label": "Une charte de la démocratie métropolitaine et de la participation citoyenne (développer des outils coopératifs à utiliser dans la prise de décision)",
+        "id": "verts-p-125"
+      },
+      {
+        "st": "st-25",
+        "label": "Une Maison des femmes ouverte en continu pour les femmes en détresse et leurs enfants",
+        "id": "verts-p-72",
+        "important": true
+      },
+      {
+        "st": "st-19",
+        "label": "Etudier les conditions de travail et de rémunération de la police municipale, le renforcement des effectifs et l'évolution de leurs équipement mais sans l'équiper d'armes létales",
+        "id": "verts-p-72"
+      },
+      {
+        "st": "st-19",
+        "label": "Renforcer la formation des policiers municipaux à la méthodologie de résolution de conflits, à la lutte contre toutes les formes de discriminations et veiller à la réprésentativité des diversités au sein de la police municipale",
+        "id": "verts-p-72",
+        "important": true
+      },
+      {
+        "st": "st-25",
+        "label": "Des permanences décentralisées dans les quartiers pour faciliter l'échange avec les habitant.es sur les problèmes du quartier",
+        "id": "verts-p-72"
+      },
+      {
+        "st": "st-25",
+        "label": "Des campagnes de verbalisation du stationnement sauvage",
+        "id": "verts-p-72",
+        "important": true
+      },
+      {
+        "st": "st-19",
+        "label": "Former les agent.e.s aux violences faites aux femmes, notamment la police municipale",
+        "id": "verts-p-72"
+      },
+      {
+        "st": "st-23",
+        "label": "Création de grandes voies végétalisées sur les grands boulevards urbains, végétalisation des places bitumées, des cours d'écoles, des crèches, des cimetières…",
+        "id": "verts-p-72",
+        "important": true
+      },
+      {
+        "st": "st-23",
+        "label": "Non au projet Aqueduc Vilaine Aval, d'Open Sky à Pacé et du développement de la piste de l'aéroport de Saint Jacques",
+        "id": "verts-p-131"
+      },
+      {
+        "st": "st-23",
+        "label": "Moratoire sur les projets de tours de grande hauteur",
+        "id": "verts-p-132",
+        "important": true
+      },
+      {
+        "st": "st-23",
+        "label": "Ralentir le rythme de constructions (1800 logements par an)",
+        "id": "verts-p-133",
+        "important": true
+      },
+      {
+        "st": "st-23",
+        "label": "Obliger la construction de bâtiments passifs ou à énergie positive, favoriser les éco-matériaux et le réemploi",
+        "id": "verts-p-134"
+      },
+      {
+        "st": "st-23",
+        "label": "Réhabilitation énergétique de 6000 logements par an",
+        "id": "verts-p-145"
+      },
+      {
+        "st": "st-23",
+        "label": "Développer une véritable stratégie pour l'habitat participatif au niveau métropolitain",
+        "id": "verts-p-145",
+        "important": true
+      },
+      {
+        "st": "st-23",
+        "label": "Une architecture à la rennaise : une charte achitecturale co-construite avec les promoteurs et architectes pour des formes architecturales qui respectent l'existant",
+        "id": "verts-p-145",
+        "important": true
+      },
+      {
+        "st": "st-20",
+        "label": "Devenir la métropole du vélo : au moins 100km de pistes cyclables supplémentaires",
+        "id": "verts-p-77",
+        "important": true
+      },
+      {
+        "st": "st-20",
+        "label": "Plan de sécurisation des carrefours, éliminer les discontinuités du réseau cyclable",
+        "id": "verts-p-77",
+        "important": true
+      },
+      {
+        "st": "st-20",
+        "label": "Renforcer les moyens pour déployer les services de la Maison du Vélo dans tous les quartiers de Rennes et les communes de Rennes métropole",
+        "id": "verts-p-145"
+      },
+      {
+        "st": "st-20",
+        "label": "Une aide économique pour accompagner les entreprises désireuses de déployer l'usage du vélo dans leurs activités",
+        "id": "verts-p-145"
+      },
+      {
+        "st": "st-24",
+        "label": "Améliorer la desserte en bus avec plus d'arrêts et une frequence de passage augmentée",
+        "id": "verts-p-83"
+      },
+      {
+        "st": "st-24",
+        "label": "5 lignes de trambus (Poterie, Beauregard-Villejean, Longchamps, Arsenal-Redon)",
+        "id": "verts-p-84",
+        "important": true
+      },
+      {
+        "st": "st-26",
+        "label": "Un RER métropolitain à partir du réseau ferroviaire existant et de nouvelles gares dans les quartiers Lorient, Baud-Chardonnet et Nord Saint-Martin",
+        "id": "verts-p-85"
+      },
+      {
+        "st": "st-22",
+        "label": "Rennes, ville à 30 km/h",
+        "id": "verts-p-78",
+        "important": true
+      },
+      {
+        "st": "st-22",
+        "label": "Elargir la zone piétonne du centre-ville et créer des liaisons piétonnes entre et dans les quartiers",
+        "id": "verts-p-78",
+        "important": true
+      },
+      {
+        "st": "st-22",
+        "label": "Expérimenter une zone à trafic limité (limiter la pollution et le bruit, améliorer la sécurité des piétons et la circulation des véhicules autorisés)",
+        "id": "verts-p-78"
+      },
+      {
+        "st": "st-22",
+        "label": "Suspendre la circulation automobile devant les écoles aux heures d'entrée et de sortie de classe",
+        "id": "verts-p-78"
+      },
+      {
+        "st": "st-22",
+        "label": "Rémunérer le covoiturage à hauteur de l'équivalent d'un ticket de bus par trajet, des voies réservées sur la rocade",
+        "id": "verts-p-78"
+      },
+      {
+        "st": "st-6",
+        "label": "Plus de moyens (financiers et humains) aux services de propreté de la ville",
+        "id": "verts-p-39"
+      },
+      {
+        "st": "st-6",
+        "label": "Augmenter le nombre de poubelles dans la rue, notamment de tri",
+        "id": "verts-p-41"
+      },
+      {
+        "st": "st-6",
+        "label": "Organiser des collectes citoyennes de déchets et des campagnes de sensibilisation à direction des habitant.e.s et des fêtard.e.s ",
+        "id": "verts-p-42",
+        "important": true
+      },
+      {
+        "st": "st-6",
+        "label": "Garantir l'accès à des toilettes gratuites et propres pour tou.te.s",
+        "id": "verts-p-44"
+      },
+      {
+        "st": "st-7",
+        "label": "Végétaliser la ville, les quartiers, les boulevards, les places, les cours d'école - planter 5000 arbres par an",
+        "id": "verts-p-49",
+        "important": true
+      },
+      {
+        "st": "st-7",
+        "label": "Développer une agriculture urbaine de proximité et sanctuariser les espaces naturels, notamment la Prévalaye et la lande du Breil",
+        "id": "verts-p-53",
+        "important": true
+      },
+      {
+        "st": "st-7",
+        "label": "Développer une politique d'acquisition foncière pour installer les producteurs bio sur la métropole",
+        "id": "verts-p-44"
+      },
+      {
+        "st": "st-7",
+        "label": "Sortie des pesticides dès 2025 pour Rennes et 2030 pour la Métropole",
+        "id": "verts-p-52",
+        "important": true
+      },
+      {
+        "st": "st-7",
+        "label": "Un grand plan de rénovation des bâtiments publics pour en faire des bâtiments basse consommation",
+        "id": "verts-p-52",
+        "important": true
+      },
+      {
+        "st": "st-7",
+        "label": "Interdiction des panneaux publicitaires, extinction nocturne de l'éclairage des enseignes commerciales",
+        "id": "verts-p-62",
+        "important": true
+      },
+      {
+        "st": "st-7",
+        "label": "Une collecte de déchets alimentaires pour les immeubles qui ne sont pas en mesure de composter sur place",
+        "id": "verts-p-44"
+      },
+      {
+        "st": "st-7",
+        "label": "Ville zéro déchet et zéro plastique",
+        "id": "verts-p-63",
+        "important": true
+      },
+      {
+        "st": "st-7",
+        "label": "Reprendre en gestion publique les contrats encore confiés à des délégataires privés pour l'eau et l'assainissement",
+        "id": "verts-p-66"
+      },
+      {
+        "st": "st-7",
+        "label": "Non à l'arrivée de la 5G sans étude d'impact sanitaire",
+        "id": "verts-p-66"
+      },
+      {
+        "st": "st-7",
+        "label": "Limiter l'exposition aux ondes à 0,6V/M, ramenée à 0,2V/M près des lieux recevant des publics sensibles",
+        "id": "verts-p-66",
+        "important": true
+      },
+      {
+        "st": "st-8",
+        "label": "Couvrir les toitures des bâtiments municipaux de panneaux solaires dès 2025 et développer une offre de location de toiture auprès des particuliers et des co-propriétés pour y installer des centrales solaires",
+        "id": "verts-p-66",
+        "important": true
+      },
+      {
+        "st": "st-8",
+        "label": "Développer les investissements publics, privés et citoyens en faveur des énergies renouvelables",
+        "id": "verts-p-66"
+      },
+      {
+        "st": "st-8",
+        "label": "Soutien au développement d'une filière bois locale",
+        "id": "verts-p-66"
+      },
+      {
+        "st": "st-12",
+        "label": "Développer les centres de santé de quartiers et des équipes de santé mobile (un bus de soins dentaires)",
+        "id": "verts-p-160",
+        "important": true
+      },
+      {
+        "st": "st-12",
+        "label": "Des Etats généraux de la santé mentale pour organiser une réponse collective au manque d'offre de soins",
+        "id": "verts-p-161"
+      },
+      {
+        "st": "st-13",
+        "label": "Etendre la gratuité sociale de l'eau, créer des tarifs sociaux pour l'énergie (électricité 100% renouvelable) et internet",
+        "id": "verts-p-164"
+      },
+      {
+        "st": "st-13",
+        "label": "Elargissement du dispositif Sortir! : nouveaux bénéficiaires (apprentis, étudiant.e.s étrangèr.e.s) et accès à une alimentation bio et locale",
+        "id": "verts-p-170"
+      },
+      {
+        "st": "st-13",
+        "label": "Un Revenu Minimum Garanti pour les ménages dont le revenu est inférieur à 867€/mois",
+        "id": "verts-p-172",
+        "important": true
+      },
+      {
+        "st": "st-13",
+        "label": "Gratuité des transports en commun pour les moins de 25 ans, jury citoyen pour étudier la gratuité universelle",
+        "id": "verts-p-167",
+        "important": true
+      },
+      {
+        "st": "st-14",
+        "label": "50% de bio dans la restauration collective avec un objectif de 100%, 1 menu alternatif végétarien dans les cantines scolaires",
+        "id": "verts-p-173"
+      },
+      {
+        "st": "st-15",
+        "label": "Encadrement et plafonnement des loyers",
+        "id": "verts-p-176",
+        "important": true
+      },
+      {
+        "st": "st-15",
+        "label": "Mise en œuvre du loyer unique pour les bénéficiaires de logement social",
+        "id": "verts-p-177"
+      },
+      {
+        "st": "st-15",
+        "label": "Un parc de logements réservés pour mettre à l'abri les personnes à la rue avec accompagnement social",
+        "id": "verts-p-180"
+      },
+      {
+        "st": "st-15",
+        "label": "Une mise à l'abri inconditionnelle des personnes migrantes à la rue",
+        "id": "verts-p-181"
+      },
+      {
+        "st": "st-16",
+        "label": "Devenir territoire zéro chomeur de longue durée (Maurepas, Villejean, le Blosne)",
+        "id": "verts-p-182",
+        "important": true
+      },
+      {
+        "st": "st-16",
+        "label": "Soutien à l'insertion par l'activité économique et aux entreprises de travail adapté pour les personnes en situation de handicap",
+        "id": "verts-p-183"
+      },
+      {
+        "st": "st-17",
+        "label": "Pas de hausse des impôts des ménages pendant au moins 3 ans - si changement de gouvernement, une hausse des impôts en priorité sur les entreprises ",
+        "id": "verts-p-186",
+        "important": true
+      },
+      {
+        "st": "st-17",
+        "label": "Une nouvelle politique d'emploi pour renforcer les moyens humains de la Ville de Rennes et de Rennes Métropole",
+        "id": "verts-p-183"
+      },
+      {
+        "st": "st-18",
+        "label": "Arrêt de la politique de rayonnement économique",
+        "id": "verts-p-188"
+      },
+      {
+        "st": "st-18",
+        "label": "Pour une politique de coopération entre les territoires avec l'expérimentation de partenariats et de contrat de réciprocité",
+        "id": "verts-p-189",
+        "important": true
+      },
+      {
+        "st": "st-27",
+        "label": "Des Etats généraux de l'accessibilité pour rénover la politique d'accessibilité de la ville",
+        "id": "verts-p-192",
+        "important": true
+      },
+      {
+        "st": "st-27",
+        "label": "Une communication institutionnelle et une information muncipale adaptée",
+        "id": "verts-p-197"
+      },
+      {
+        "st": "st-27",
+        "label": "Au moins une solution d'accueil des enfants en situation de handicap dans chaque quartier, des jeux adaptés dans les écoles et les parcs",
+        "id": "verts-p-198",
+        "important": true
+      }
+    ]
+  },
+  {
+    "id": "gandon",
+    "tetes": [{
+      "prenom": "Carole",
+      "nom": "Gandon"
+    }],
+    "parti": "LaREM",
+    "liste": "Révéler Rennes",
+    "website": "reveler-rennes.bzh",
+    "twitter": "RevelerRennes",
+    "twitterFollowers": "839",
+    "facebook": "RevelerRennes",
+    "facebookFollowers": "394",
+    "polemiques": [{
+      "label": "Mailing malencontreux",
+      "references": [{
+        "titre": "",
+        "url": ""
+      }]
+    }],
+    "propositions": [{
+      "id": "gandon-p-1",
+      "st": "st-19",
+      "label": "Création au sein de la police municipale une brigade verte de 15 agents à cheval ou à vélo"
+    },
+      {
+        "id": "gandon-p-2",
+        "st": "st-19",
+        "label": "Triplement du nombre de caméras de vidéoprotection pour prévenir les actes de délinquance. Recrutement, formation et déploiement de 30 policiers municipaux supplémentaires pour améliorer la sécurité des habitants de tous les quartiers",
+        "important": true
+      },
+      {
+        "id": "gandon-p-3",
+        "st": "st-19",
+        "label": "Généralisation de la sécurisation des zones à proximité de toutes les crèches, les écoles primaires et les maisons de retraite."
+      },
+      {
+        "id": "gandon-p-4",
+        "st": "st-5",
+        "label": "Ouverture de 400 nouvelles places en crèche"
+      },
+      {
+        "id": "gandon-p-5",
+        "st": "st-11",
+        "label": "« Mon premier club » : licence de sport gratuite pour chaque enfant âgé de 6 ans"
+      },
+      {
+        "id": "gandon-p-6",
+        "st": "st-22",
+        "label": "Baisse par deux pour les jeunes de moins de 25 ans des tarifs d'abonnement sur le réseau Star et facilitation de la location de vélo longue durée"
+      },
+      {
+        "id": "gandon-p-7",
+        "st": "st-21",
+        "label": "Prolongement des 2 lignes de métro, notamment l’aéroport et le Parc des expositions"
+      },
+      {
+        "id": "gandon-p-8",
+        "st": "st-24",
+        "label": "Création d'une ligne de bus à 360° autour de la rocade, avec un réseau de parkings relais de grande capacité; et à terme, sera connecté aux stations de métro hors rocade"
+      },
+      {
+        "id": "gandon-p-9",
+        "st": "st-24",
+        "label": "Expérimentation des bus à hydrogène propre"
+      },
+      {
+        "id": "gandon-p-10",
+        "st": "st-22",
+        "label": "Création d'une flotte de navettes fluviales sur la Vilaine, allant de Cesson vers le Théâtre National de Bretagne, et de la place de Bretagne jusqu’au Stade rennais"
+      },
+      {
+        "id": "gandon-p-11",
+        "st": "st-20",
+        "label": "Mise en œuvre intégrale du plaidoyer porté par l’association Rayons d’action (150 km de réseau express vélo, fin des discontinuités et sécurisation des pistes cyclables, etc.)"
+      },
+      {
+        "id": "gandon-p-12",
+        "st": "st-15",
+        "label": "Moratoire sur la construction de tours"
+      },
+      {
+        "id": "gandon-p-13",
+        "st": "st-7",
+        "label": "Plantation d'un arbre pour chaque nouveau Rennais"
+      },
+      {
+        "id": "gandon-p-14",
+        "st": "st-18",
+        "label": "Porter la candidature de Rennes pour devenir capitale européenne de la culture"
+      },
+      {
+        "id": "gandon-p-15",
+        "st": "st-9",
+        "label": "Arena 5.0 des arts numériques et du jeu vidéo, avec accueil de compétitions de e-sport et d'ateliers pour tous les publics"
+      },
+      {
+        "id": "gandon-p-16",
+        "st": "st-10",
+        "label": "Votations citoyennes pour les projets nouveaux et d’envergure proposés par la majorité en cours de mandat"
+      },
+      {
+        "id": "gandon-p-17",
+        "st": "st-23",
+        "label": "Relancer la réflexion sur le projet du Palais du commerce en y associant les actuelles parties prenantes mais aussi les citoyens et les commerçants"
+      },
+      {
+        "id": "gandon-p-18",
+        "st": "st-19",
+        "label": "Installation dans chaque quartier d'une antenne de police municipale"
+      },
+      {
+        "id": "gandon-p-19",
+        "st": "st-19",
+        "label": "Renforcer l'accès à l'hébergement et au logement pour les femmes victimes de violence"
+      },
+      {
+        "id": "gandon-p-20",
+        "st": "st-19",
+        "label": "Faire de Rennes une ville anti-prostitution, notamment celle des mineurs"
+      },
+      {
+        "id": "gandon-p-21",
+        "st": "st-28",
+        "label": "Numéro unique pour les commerçants pour le traitement des tags ou dépôt d'ordures sauvages"
+      },
+      {
+        "id": "gandon-p-22",
+        "st": "st-20",
+        "label": "Expérimenter une ou plusieurs vélo-rues dans le centre-ville"
+      },
+      {
+        "id": "gandon-p-23",
+        "st": "st-22",
+        "label": "Création de parkings relais au-delà de la rocade"
+      },
+      {
+        "id": "gandon-p-24",
+        "st": "st-15",
+        "label": "Intégration de services, commerçants et équipements simultanément à toute construction de logements collectifs"
+      },
+      {
+        "id": "gandon-p-25",
+        "st": "st-15",
+        "label": "Partage de l'effort d'accueil et de densification à l'échelle de la métropole"
+      },
+      {
+        "id": "gandon-p-26",
+        "st": "st-7",
+        "label": "Végétaliser la ville"
+      },
+      {
+        "id": "gandon-p-26",
+        "st": "st-23",
+        "label": "Priorité à l'aménagement et requalification urbaine et économique de l'hôpital sud"
+      },
+      {
+        "id": "gandon-p-27",
+        "st": "st-15",
+        "label": "Préserver le patrimoine bâti"
+      },
+      {
+        "id": "gandon-p-28",
+        "st": "st-15",
+        "label": "Organisation d'Assises du Patrimoine Rennais"
+      },
+      {
+        "id": "gandon-p-29",
+        "st": "st-15",
+        "label": "Programme de rénovation des façades à colombage, labellisation du patrimoine européen"
+      },
+      {
+        "id": "gandon-p-30",
+        "st": "st-15",
+        "label": "Maintien du parking Vilaine en améliorant son esthétique"
+      },
+      {
+        "id": "gandon-p-30",
+        "st": "st-22",
+        "label": "Transport gratuit, un samedi par mois"
+      },
+      {
+        "id": "gandon-p-30",
+        "st": "st-15",
+        "label": "Vigilance sur la durée des baux commerciaux, organisation de mise à disposition éphémère de rez-de-jardin pour associations et artistes"
+      },
+      {
+        "id": "gandon-p-31",
+        "st": "st-29",
+        "label": "Bâtir une stratégie de développement économique métropolitaine avec une cartographie actualisée des entreprises et leurs besoins"
+      },
+      {
+        "id": "gandon-p-32",
+        "st": "st-29",
+        "label": "Améliorer la visiblité des dispositifs d'accompagnement à la création, l'inovation et l'export"
+      },
+      {
+        "id": "gandon-p-33",
+        "st": "st-29",
+        "label": "Encourager la création de nouveaux services pour accompagner l'implantation des entreprises"
+      },
+      {
+        "id": "gandon-p-34",
+        "st": "st-18",
+        "label": "Faire entrer Rennes Métropole dans la gouvemance de l'aéroport de Rennes en concluant avec la Région Bretagne un pacte de dévelop-pement pour cet équipement public essentiel"
+      },
+      {
+        "id": "gandon-p-35",
+        "st": "st-18",
+        "label": "Amplifier notre stratégie de développement touristique, en direction notamment des pays émergents, en travaillant sur la demande et pas seulement sur l'offre"
+      },
+      {
+        "id": "gandon-p-36",
+        "st": "st-18",
+        "label": "Dynamiser et remodeler nos politiques de jumelage: nous proposons de créer un jumelage avec deux nouvelles villes d'Europe, du Sud comme 1'Italie et du Nord comme l'Estonie"
+      },
+      {
+        "id": "gandon-p-37",
+        "st": "st-18",
+        "label": "Soutenir et donner davantage de visibilité aux actions menées par les associations en matière de solidarité internationale et de coopéra-tion européenne"
+      },
+      {
+        "id": "gandon-p-38",
+        "st": "st-9",
+        "label": "Soutenir les pratiques culturelles en amateur"
+      },
+      {
+        "id": "gandon-p-39",
+        "st": "st-9",
+        "label": "Soutenir la création et la diffusion des arts et de la musique dans toutes leur diversité, en coordonnant l'offre développée par les différents acteurs publics, privés et associatifs"
+      },
+      {
+        "id": "gandon-p-40",
+        "st": "st-9",
+        "label": "Ouvrir de manière régulière le Couvent des Jacobins à des manifestations artistiques, par et pour les Rennais"
+      },
+      {
+        "id": "gandon-p-41",
+        "st": "st-9",
+        "label": "Créer un Bus des Sciences, adossé à l'Espace des Sciences des Champs Libres, pour organiser des animations dans les quartiers"
+      },
+      {
+        "id": "gandon-p-42",
+        "st": "st-9",
+        "label": "Soutenir et donner davantage de visibilité aux actions menées par les associations en matière de solidarité internationale et de coopéra-tion européenne"
+      },
+      {
+        "id": "gandon-p-43",
+        "st": "st-31",
+        "label": "Soutenir activement le projet UNIR qui réunit les deux universités et plusieurs grandes écoles rennaises en jouant un rôle d'animateur et de médiateur"
+      },
+      {
+        "id": "gandon-p-44",
+        "st": "st-31",
+        "label": "Inciter à la mise en oeuvre effective du Schéma de Développement Universitaire dont les objectifs doivent constituer un cahier des charges pour la future Université de Rennes"
+      },
+      {
+        "id": "gandon-p-45",
+        "st": "st-31",
+        "label": "Contribuer, en lien avec la Région Bretagne, à améliorer l'adéquation entre l'offre de formation et les besoins des entreprises du territoire, pour favoriser employabilité des diplômés rennais et leur insertion professionnelle"
+      },
+      {
+        "id": "gandon-p-46",
+        "st": "st-31",
+        "label": "Porter un projet d'aménagement concerté avec l'État et les universités pour mieux intégrer les campus dans la ville"
+      },
+      {
+        "id": "gandon-p-47",
+        "st": "st-15",
+        "label": "Lutter contre le mal-logement : mettre en place un plan de détection et de lutte contre l'insalubrité des logements étudiants"
+      },
+      {
+        "id": "gandon-p-48",
+        "st": "st-31",
+        "label": "Revisiter les dispositifs Dazibao et la Nuit des 4 Jeudis pour les rendre plus attractifs et mieux connectés aux attentes actuelles des étudiants"
+      },
+      {
+        "id": "gandon-p-49",
+        "st": "st-31",
+        "label": "Accompagner la transformation des campus Beaulieu et Villejean pour en faire de vrais lieux de vie, adaptés au rythme et aux besoins des étudiants"
+      },
+      {
+        "id": "gandon-p-50",
+        "st": "st-7",
+        "label": "Désenclaver le campus de Ker Lann en préparant sa desserte par le prolongement de la ligne A du métro"
+      },
+      {
+        "id": "gandon-p-51",
+        "st": "st-14",
+        "label": "Accélérer le réhabilitation énergétique dans le parc privé existant (en particulier dans les quartiers prioritaires) et la poursuivre dans le parc public"
+      },
+      {
+        "id": "gandon-p-52",
+        "st": "st-7",
+        "label": "Multiplier les espaces verte de proximité pour désimperméabiliser les sols, lancer un plan de végétalisation des parkings et des cours d'école et encourager la végétalisation des murs et des abords des maisons des particuliers"
+      },
+      {
+        "id": "gandon-p-53",
+        "st": "st-7",
+        "label": "Créer des plans d'eau et des fontaines en privilégiant la réutilisation des eaux de pluie"
+      },
+      {
+        "id": "gandon-p-54",
+        "st": "st-7",
+        "label": "Renforcer les commissions «cadre de vie» des conseils de quartier avec un volet biodiversité pour faciliter l'adhésion des citoyens sur les projets de protection de la biodiversité en ville"
+      },
+      {
+        "id": "gandon-p-55",
+        "st": "st-7",
+        "label": "Ouvrir au sein de Rennes Métropole une réflexion sur a un territoire «0 pollution nocturne», avec comme objectif l'extinction progressive de l'éclairage public entre 23h00 et 6h00"
+      },
+      {
+        "id": "gandon-p-56",
+        "st": "st-7",
+        "label": "Améliorer le qualité des eaux superficielles, valoriser les abords et lutter contre les phénomènes d'eutrophisation des eaux"
+      },
+      {
+        "id": "gandon-p-57",
+        "st": "st-7",
+        "label": "Étudier une solution alternative à l'incinérateur de Villejean pour tenir compte de l'arrivée à maturité de nouvelles technologies qui s'inscrivent dans un contexte régional favorable avec la nouvelle trajectoire du pacte gazier breton"
+      },
+      {
+        "id": "gandon-p-58",
+        "st": "st-7",
+        "label": "Installer à proximité des écoles et des équipements de quartier un container de dépôt d'objets, et conventionner avec toutes les recycleries de Rennes pour créer un réseau associatif du réemploi"
+      },
+      {
+        "id": "gandon-p-59",
+        "st": "st-7",
+        "label": "Développer le compostage de quartier et étudier la mise en place d'un troisième container de tri des matières organiques"
+      },
+      {
+        "id": "gandon-p-60",
+        "st": "st-12",
+        "label": "Créer un Conseil des seniors pour co-construire avec nos aînés les solutions pour accompagner le vieillissement"
+      },
+      {
+        "id": "gandon-p-61",
+        "st": "st-12",
+        "label": "Lutter contre « l’âgisme », Rennes, cité qui se veut amie des aînés, doit développer des actions de sensibilisation et de lutte contre l’âgisme"
+      },
+      {
+        "id": "gandon-p-62",
+        "st": "st-15",
+        "label": "Développer l’habitat inclusif et/ou regroupé, le béguinage"
+      },
+      {
+        "id": "gandon-p-63",
+        "st": "st-12",
+        "label": "Expérimenter la « Tinell » : dans cette cantine solidaire intergénérationnelle, les bénéficiaires des repas portés par le CCAS pourront déjeuner au côté d’étudiants et d’habitants, pour rompre l’isolement"
+      },
+      {
+        "id": "gandon-p-64",
+        "st": "st-25",
+        "label": "Désigner un adjoint totalement dédié à la sécurité, à la médiation et à la prévention de la délinquance"
+      },
+      {
+        "id": "gandon-p-65",
+        "st": "st-25",
+        "label": "Développer l’embauche de gardiens d’immeubles avec Archipel Habitat"
+      },
+      {
+        "id": "gandon-p-66",
+        "st": "st-25",
+        "label": "Adapter l’offre de transport pour permettre les arrêts à la demande dans le réseau Star la nuit"
+      },
+      {
+        "id": "gandon-p-67",
+        "st": "st-19",
+        "label": "Œuvrer avec la police nationale à la création de nouveaux centres d’éducation citoyenne et de loisirs dans les quartiers prioritaires"
+      },
+      {
+        "id": "gandon-p-68",
+        "st": "st-32",
+        "label": "Favoriser le lien inter-quartiers à travers les activités associatives en pensant la mobilité à l’échelle de la ville",
+        "important": true
+      },
+      {
+        "id": "gandon-p-69",
+        "st": "st-25",
+        "label": "Améliorer la médiation sociale, une approche au cœur des politiques de sécurité et de prévention"
+      },
+      {
+        "id": "gandon-p-69",
+        "st": "st-25",
+        "label": "Plan local de prévention et de lutte contre les violences sexistes qui reposera sur trois piliers (Prévenir / Agir et accompagner les victimes, leur famille et leurs aidants / Prêter une attention spécifique aux publics les plus fragiles )",
+        "important": true
+      },
+      {
+        "id": "gandon-p-70",
+        "st": "st-25",
+        "label": "Systématiser le dépôt de plainte pour les dégradations et incivilités qui dégradent notre cadre de vie et encourager le recours à des travaux d’intérêt général"
+      },
+      {
+        "id": "gandon-p-71",
+        "st": "st-30",
+        "label": "Encourager le covoiturage et le télétravail"
+      },
+      {
+        "id": "gandon-p-72",
+        "st": "st-30",
+        "label": "Développement de zones d'activités économiques hors de la rocade"
+      },
+      {
+        "id": "gandon-p-73",
+        "st": "st-22",
+        "label": "Favoriser le pouvoir d'achat des étudiants grâce à la baisse du prix des abonnements Star"
+      },
+      {
+        "id": "gandon-p-74",
+        "st": "st-7",
+        "label": "Planter ou aider à planter un arbre pour chaque nouvel arrivant"
+      },
+      {
+        "id": "gandon-p-75",
+        "st": "st-23",
+        "label": "Installer des hotspots de Wifi public dans des lieux stratégiques de la ville (parcs, places)"
+      },
+      {
+        "id": "gandon-p-76",
+        "st": "st-23",
+        "label": "Moderniser l'éclairage public sur la ville en passant progressivement aux LED, expérimenter l'éclairage à la demande"
+      },
+      {
+        "id": "gandon-p-77",
+        "st": "st-23",
+        "label": "Lancer un programme ambitieux d'infrastructure de monitoring urbain pour une gestion optimisée des ressources"
+      },
+      {
+        "id": "gandon-p-78",
+        "st": "st-33",
+        "label": "Créer une application fédératrice et personnalisable centralisant les différents services et informations provenant des acteurs locaux (Star, Ici Rennes, ...)"
+      },
+      {
+        "id": "gandon-p-79",
+        "st": "st-14",
+        "label": "Des produits « C-BIO » pour un objectif de 60 à 80% de produits alimentaires certifiés et labellisés « BIO et circuit courts » pour les cantines scolaires"
+      },
+      {
+        "id": "gandon-p-80",
+        "st": "st-14",
+        "label": "Lancer une démarche participative avec les Rennaises et Rennais pour établir un cahier des charges de la restauration collective",
+        "important": true
+      },
+      {
+        "id": "gandon-p-81",
+        "st": "st-14",
+        "label": "Développer la ferme de la Taupinais à Rennes comme « maison de l’alimentation Rennaise » afin d’accompagner les citadins Rennais vers cette transition agricole écologique"
+      },
+      {
+        "id": "gandon-p-82",
+        "st": "st-3",
+        "label": "Développer dans nos quartiers une nouvelle offre alimentaire basée sur les circuits courts afin d’inciter les citoyens Rennais à cette nouvelle consommation"
+      },
+      {
+        "id": "gandon-p-83",
+        "st": "st-2",
+        "label": "Lutter contre la précarité et le gaspillage alimentaires avec les citoyens des quartiers, les acteurs associatifs, les commerçants et les institutions"
+      },
+      {
+        "id": "gandon-p-84",
+        "st": "st-23",
+        "label": "Étudier la faisabilité de créer des piscines itinérantes"
+      },
+      {
+        "id": "gandon-p-84",
+        "st": "st-11",
+        "label": "Mettre en place un pack sportif Haut Niveau qui facilitera la vie des sportifs au quotidien : tarification sociale des transports, accompagnement dans les démarches administratives, mise en relation avec les entreprises"
+      },
+      {
+        "id": "gandon-p-85",
+        "st": "st-11",
+        "label": "Favoriser l’émergence d’une grande politique handisport en étroit partenariat avec Rennes Handisport en favorisant l’inclusion des pratiquants sportifs porteurs de handicaps dans les associations de sportifs valides"
+      },
+      {
+        "id": "gandon-p-86",
+        "st": "st-11",
+        "label": "Simplifier les démarches administratives dans l’attribution et le suivi des subventions"
+      }
+    ]
+  },
+  {
+    "id": "compagnon",
+    "tetes": [{
+      "prenom": "Charles",
+      "nom": "Compagnon"
+    }],
+    "parti": "DVD-LR-MoDem-UDI-PB",
+    "liste": "Libres d’agir pour Rennes",
+    "website": "www.compagnon2020.fr",
+    "twitter": "compagnon2020",
+    "twitterFollowers": "295",
+    "facebook": "Compagnon2020",
+    "facebookFollowers": "612",
+    "propositions": [{
+      "id": "compagnon-p-1",
+      "st": "st-7",
+      "label": "Verdir la ville (cours d'écoles, toits, abris-bus, rues et boulevards)"
+    },
+      {
+        "id": "compagnon-p-2",
+        "st": "st-7",
+        "label": "Trame verte et bleue de Rennes, faire entrer la nature dans Rennes"
+      },
+      {
+        "id": "compagnon-p-3",
+        "st": "st-7",
+        "label": "Tous éco-responsables"
+      },
+      {
+        "id": "compagnon-p-4",
+        "st": "st-7",
+        "label": "Parc solaire dans la ville"
+      },
+      {
+        "id": "compagnon-p-5",
+        "st": "st-7",
+        "label": "Manifestations éco-responsables"
+      },
+      {
+        "id": "compagnon-p-6",
+        "st": "st-22",
+        "label": "Changer d'échelle : raisonner pays de Rennes et non pas seulement Rennes métropole"
+      },
+      {
+        "id": "compagnon-p-7",
+        "st": "st-7",
+        "label": "Se mettre en cohérence avec les mobilités métropolitaines : concentrique vers maillage en damier"
+      },
+      {
+        "id": "compagnon-p-8",
+        "st": "st-22",
+        "label": "Développer les modes doux et les mobilités 'multi-modales'"
+      },
+      {
+        "id": "compagnon-p-9",
+        "st": "st-22",
+        "label": "Favoriser la vitesse des déplacements : ligne C4 express ou tram-rail / RER Rennais"
+      },
+      {
+        "id": "compagnon-p-10",
+        "st": "st-22",
+        "label": "Faciliter l'accès à la Bretagne : contournement de Rennes hors rocade"
+      },
+      {
+        "id": "compagnon-p-11",
+        "st": "st-22",
+        "label": "Changer les comportements : #digital"
+      },
+      {
+        "id": "compagnon-p-12",
+        "st": "st-22",
+        "label": "Donner plus d'espace aux piétons dans le centre-ville historique"
+      },
+      {
+        "id": "compagnon-p-13",
+        "st": "st-19",
+        "label": "Accueil public de la police municipale, en centre-ville, identifié et visible"
+      },
+      {
+        "id": "compagnon-p-14",
+        "st": "st-19",
+        "label": "Application numérique et plateforme téléphonique pour communiquer avec la police municipale"
+      },
+      {
+        "id": "compagnon-p-15",
+        "st": "st-19",
+        "label": "Permanence dans les quartiers de la PM sur le marché ou à la mairie de quartier"
+      },
+      {
+        "id": "compagnon-p-15",
+        "st": "st-19",
+        "label": "Personnels de la PM durable affectés dans les quartiers pour créer du lien"
+      },
+      {
+        "id": "compagnon-p-16",
+        "st": "st-19",
+        "label": "Poste mobile sur site pendant des grands évènements pour prévention et sensibilisation"
+      },
+      {
+        "id": "compagnon-p-17",
+        "st": "st-19",
+        "label": "Développer les coopérations avec les partenaires de la ville (Police, gendarmerie, associations, etc)"
+      },
+      {
+        "id": "compagnon-p-18",
+        "st": "st-19",
+        "label": "Développer les coopérations avec les habitants (conseils de quartier, voisins vigilants, opérations de sensibilisation/prévention)"
+      },
+      {
+        "id": "compagnon-p-19",
+        "st": "st-19",
+        "label": "Doublement des effectifs de la police municipale"
+      },
+      {
+        "id": "compagnon-p-20",
+        "st": "st-19",
+        "label": "Former et équiper la police municipale"
+      },
+      {
+        "id": "compagnon-p-21",
+        "st": "st-19",
+        "label": "Etendre la vidéoprotection"
+      },
+      {
+        "id": "compagnon-p-22",
+        "st": "st-2",
+        "label": "Création d’emplois, en encourageant les commerces de proximité et les artisans dans les quartiers, en soutenant la création d’activités de l’économie sociale et solidaire en faisant de Rennes Métropole une Fab City"
+      },
+      {
+        "id": "compagnon-p-22",
+        "st": "st-2",
+        "label": "Intégration d’un volet économique dans le développement des coopérations et des jumelages, notamment en constituant un pôle européen de l’économie sociale et solidaire"
+      },
+      {
+        "id": "compagnon-p-23",
+        "st": "st-30",
+        "label": "Création de deux évènements internationaux : le Space du numérique et faire de Rennes une capitale du bien manger. Notre ville doit être connectée pour les Rennais par l’expérimentation de toutes les technologies de smartcity"
+      },
+      {
+        "id": "compagnon-p-24",
+        "st": "st-30",
+        "label": "Action pour le développement de l’Aéroport de Rennes et la mise en place d’une liaison ferroviaire rénovée vers Nantes afin de renforcer notre attractivité économique"
+      },
+      {
+        "id": "compagnon-p-25",
+        "st": "st-5",
+        "label": "Amélioration de la qualité d’accueil des moins de 3 ans à Rennes en créant 300 places d’accueil en crèches (3,6 millions d’€/an)"
+      },
+      {
+        "id": "compagnon-p-26",
+        "st": "st-5",
+        "label": "Favoriser la création d’une maison d’assistantes maternelles"
+      },
+      {
+        "id": "compagnon-p-27",
+        "st": "st-5",
+        "label": "Transformation du centre d’information de l’Étoile en un véritable guichet unique d’inscription et de gestion des différents types de modes de garde"
+      },
+      {
+        "id": "compagnon-p-28",
+        "st": "st-8",
+        "label": "Organiser une collecte bimensuelle de compost"
+      },
+      {
+        "id": "compagnon-p-29",
+        "st": "st-8",
+        "label": "Valorisation énergétique des biodéchets en construisant un centre de méthanisation"
+      },
+      {
+        "id": "compagnon-p-30",
+        "st": "st-13",
+        "label": "Sur critères sociaux, financement total des licences de sport pour les enfants de moins de 10 ans ainsi qu’un financement à hauteur de 50 % pour les étudiants boursiers"
+      },
+      {
+        "id": "compagnon-p-31",
+        "st": "st-14",
+        "label": "Poursuite des efforts pour privilégier les circuits courts et des repas sains"
+      },
+      {
+        "id": "compagnon-p-32",
+        "st": "st-17",
+        "label": "Un Maire de Rennes à Plein temps et un Président de Rennes Métropole qui ne soit pas le Maire de Rennes"
+      },
+      {
+        "id": "compagnon-p-33",
+        "st": "st-20",
+        "label": "Un vrai plan vélo avec la réalisation de 150 km de pistes cyclables réellement en site propre et la suppression des points accidentogènes"
+      },
+      {
+        "id": "compagnon-p-34",
+        "st": "st-20",
+        "label": "Favoriser la mise en place de l’indemnité kilométrique pour les cyclistes"
+      },
+      {
+        "id": "compagnon-p-35",
+        "st": "st-21",
+        "label": "Extension du métro sur la ligne A (Poterie à Val-Blanc) et ligne B (St-Jacques Gaité à Morinais)"
+      },
+      {
+        "id": "compagnon-p-36",
+        "st": "st-21",
+        "label": "Faire 4 lignes de Tramway à l'extrémité des lignes de métro (rails sur herbes) (Pointchaillou à Pacé ; Cesson-Sévigné - Thorigné à Fouillard ; Val-Blanc à Chantepie Rives du Blosne et Morinais à Bruz)"
+      },
+      {
+        "id": "compagnon-p-37",
+        "st": "st-24",
+        "label": "Création de lignes Express de bus"
+      },
+      {
+        "id": "compagnon-p-38",
+        "st": "st-24",
+        "label": "Créer des liaisons transversales circulaires"
+      },
+      {
+        "id": "compagnon-p-39",
+        "st": "st-24",
+        "label": "Désengorger le noeud République"
+      },
+      {
+        "id": "compagnon-p-40",
+        "st": "st-26",
+        "label": "Augmentation des cadences TER à une toutes les 15 minutes"
+      },
+      {
+        "id": "compagnon-p-41",
+        "st": "st-24",
+        "label": "Création de 3 nouvelles haltes ferroviaires"
+      }
+    ]
+  },
+  {
+    "id": "lepape",
+    "tetes": [{
+      "prenom": "Enora",
+      "nom": "Le Pape"
+    },
+      {
+        "prenom": "Jean-Paul",
+        "nom": "Tual"
+      }
+    ],
+    "parti": "LFI",
+    "liste": "Rennes en commun",
+    "website": "rennes-en-commun-2020.fr",
+    "twitter": "RennesEnCommun",
+    "twitterFollowers": "346",
+    "facebook": "RennesEnCommun",
+    "facebookFollowers": "1910",
+    "propositions": [{
+      "id": "lepape-p-1",
+      "st": "st-22",
+      "label": "La gratuité progressive des transports en commun"
+    },
+      {
+        "id": "lepape-p-2",
+        "st": "st-22",
+        "label": "La mise en place du RER métropolitain",
+        "important": true
+      },
+      {
+        "id": "lepape-p-3",
+        "st": "st-14",
+        "label": "100% d'alimentation bio",
+        "important": true
+      },
+      {
+        "id": "lepape-p-4",
+        "st": "st-10",
+        "label": "Une journée du référendum d'initiative citoyenne (RIC) chaque année",
+        "important": true
+      },
+      {
+        "id": "lepape-p-5",
+        "st": "st-13",
+        "label": "Un centre d'hébergement pour sans-abris",
+        "important": true
+      },
+      {
+        "id": "lepape-p-6",
+        "st": "st-15",
+        "label": "La priorité aux 3R (Réquisition, Rénovation, Reconstruction) en matière de logement",
+        "important": true
+      },
+      {
+        "id": "lepape-p-7",
+        "st": "st-7",
+        "label": "L'interdiction des pesticides",
+        "important": true
+      },
+      {
+        "id": "lepape-p-8",
+        "st": "st-10",
+        "label": "Des votations systématiques",
+        "important": true
+      },
+      {
+        "id": "lepape-p-9",
+        "st": "st-17",
+        "label": "Création d'un Fond Public Métropolitain",
+        "important": true
+      },
+      {
+        "id": "lepape-p-10",
+        "st": "st-16",
+        "label": "L'extension du projet de territoire 'zéro chômeur'",
+        "important": true
+      },
+      {
+        "id": "lepape-p-11",
+        "st": "st-16",
+        "label": "Inciter et faciliter l’installation d’artisans et de petit.e.s commerçant.e.s"
+      },
+      {
+        "id": "lepape-p-12",
+        "st": "st-20",
+        "label": "Sécuriser en urgence des voies cyclables",
+        "important": true
+      },
+      {
+        "id": "lepape-p-13",
+        "st": "st-12",
+        "label": "Construire des EHPAD de qualité",
+        "important": true
+      },
+      {
+        "id": "lepape-p-14",
+        "st": "st-9",
+        "label": "Favoriser la culture populaire et l’organisation d'événements gratuit",
+        "important": true
+      },
+      {
+        "id": "lepape-p-15",
+        "st": "st-17",
+        "label": "Instaurer la révocabilité des élu.e.s",
+        "important": true
+      },
+      {
+        "id": "lepape-p-16",
+        "st": "st-10",
+        "label": "Tirage au sort intégral du collège « habitant·e·s » du Conseil de quartier et attribution du vrai pouvoir aux Assemblées de quartier"
+      },
+      {
+        "id": "lepape-p-17",
+        "st": "st-10",
+        "label": "Embauche d’un·e « manager » ou d’un·e « animateur·rice » de la démocratie dans chaque quartier"
+      },
+      {
+        "id": "lepape-p-18",
+        "st": "st-10",
+        "label": "Attribution d’un plus grand pouvoir décisionnaire aux Assemblées de quartier et à leur Conseil de quartier en fixant l’objectif, à terme, d’en faire des « mini conseils municipaux citoyens » de quartier"
+      },
+      {
+        "id": "lepape-p-19",
+        "st": "st-10",
+        "label": "Signature d’un « contrat moral » entre les élu·e·s et la population pour s’assurer qu’il sera respecté quel que soit le résultat d’une votation"
+      },
+      {
+        "id": "lepape-p-20",
+        "st": "st-10",
+        "label": "Systématisation de la votation lorsqu’il s’agit de gros investissements publics dépassant une certaine somme à déterminer pour Rennes et pour la Métropole"
+      },
+      {
+        "id": "lepape-p-21",
+        "st": "st-10",
+        "label": "Possibilité pour les citoyen·ne·s d’organiser des votations sur tous les sujets qui entrent dans les compétences de la Ville et de la Métropole"
+      },
+      {
+        "id": "lepape-p-22",
+        "st": "st-10",
+        "label": "Fléchage des ressources nécessaires pour répondre aux besoins de fonctionnement des projets votés dans le cadre du budget participatif"
+      },
+      {
+        "id": "lepape-p-23",
+        "st": "st-10",
+        "label": "Possibilité pour les porteur·se·s de projets de les présenter dans le cadre de la « Journée de la démocratie »"
+      },
+      {
+        "id": "lepape-p-24",
+        "st": "st-10",
+        "label": "Démultiplication des points de vote dans différents organismes publics ou parapublics"
+      },
+      {
+        "id": "lepape-p-25",
+        "st": "st-10",
+        "label": "Promotion de budgets participatifs sectoriels, pour les budgets des écoles ou des bailleurs sociaux par ex"
+      },
+      {
+        "id": "lepape-p-26",
+        "st": "st-10",
+        "label": "Expérimentation d’un budget participatif thématique par an. "
+      },
+      {
+        "id": "lepape-p-27",
+        "st": "st-17",
+        "label": "Possibilité d’être révoqué·e·s individuellement ou collectivement à partir de trois ans de mandat suite à une votation locale (voir « Les votations citoyennes »"
+      },
+      {
+        "id": "lepape-p-28",
+        "st": "st-17",
+        "label": "Le cumul des mandats et des fonctions sera strictement interdit sauf cas liés à la fonction qui oblige de siéger dans d’autres organismes."
+      },
+      {
+        "id": "lepape-p-29",
+        "st": "st-17",
+        "label": "Interdiction d’effectuer plus de deux mandats à la suite au même poste."
+      },
+      {
+        "id": "lepape-p-30",
+        "st": "st-17",
+        "label": "Interdiction de profiter d’un quelconque cadeau qui sort du cadre de leur mandat."
+      },
+      {
+        "id": "lepape-p-31",
+        "st": "st-17",
+        "label": "Publication d’une déclaration de patrimoine pour éviter les prises illégales d’intérêts."
+      },
+      {
+        "id": "lepape-p-32",
+        "st": "st-17",
+        "label": "Tenue d’un agenda public recensant toutes leurs activités dans le cadre de leur mandat, y compris les repas et rendez-vous de travail."
+      },
+      {
+        "id": "lepape-p-33",
+        "st": "st-17",
+        "label": "L’indemnité maximale ne devra pas excéder le revenu médian (1 710 €/mois)."
+      },
+      {
+        "id": "lepape-p-34",
+        "st": "st-17",
+        "label": "Fonctionnement plus simple et transparent de la semaine de permanence obligatoire des élu·e·s"
+      },
+      {
+        "id": "lepape-p-35",
+        "st": "st-17",
+        "label": "Garantie de la parité dans les nominations décidées par les élu·e·s ou par l’administration territoriale."
+      },
+      {
+        "id": "lepape-p-36",
+        "st": "st-17",
+        "label": "Organisation mensuelle d’une foire ouverte aux questions, en direct, administrée par les adjoint·e·s ou par le/la maire pour répondre aux questions des citoyen·ne·s."
+      },
+      {
+        "id": "lepape-p-37",
+        "st": "st-17",
+        "label": "Ouverture dès le début du mandat d’un cycle de discussions avec les représentant·e·s du personnel sur plusieurs sujets : la déprécarisation, l’amélioration des conditions de travail, les niveaux de rémunération, les effectifs."
+      },
+      {
+        "id": "lepape-p-38",
+        "st": "st-17",
+        "label": "Soutien à l’emploi des femmes et l’égalité femme/homme, la parité dans les fonctions occupées, l’incitation des femmes à la formation, l’incitation des hommes à prendre leurs congés de paternité, équilibre vie professionnelle / personnelle."
+      },
+      {
+        "id": "lepape-p-39",
+        "st": "st-17",
+        "label": "Tirage au sort pour chaque Groupe de Travail d’un petit nombre d’habitant·e·s pour participer à l’élaboration des délibérations"
+      },
+      {
+        "id": "lepape-p-40",
+        "st": "st-17",
+        "label": "Réunions de Groupes de Travail et de Commissions municipales et métropolitaines seront filmées"
+      },
+      {
+        "id": "lepape-p-41",
+        "st": "st-17",
+        "label": "Les séances des Conseils municipaux et métropolitain devront avoir lieu le samedi, en journée, au rythme d’un par mois"
+      },
+      {
+        "id": "lepape-p-42",
+        "st": "st-17",
+        "label": "Les dates, les horaires ainsi que les projets de délibération formulés en langage courant seront rendus publics en amont"
+      },
+      {
+        "id": "lepape-p-43",
+        "st": "st-17",
+        "label": "Toutes les séances seront filmées et diffusées en direct sur internet."
+      },
+      {
+        "id": "lepape-p-44",
+        "st": "st-17",
+        "label": "Entre la présentation et le vote de chaque délibération, la parole sera donnée au public pour une éventuelle courte question sur le sujet, de même qu’aux corps intermédiaires pour qu’ils puissent donner leur avis (Conseils de quartier, Comités consultatifs, syndicats, associations…)."
+      },
+      {
+        "id": "lepape-p-45",
+        "st": "st-17",
+        "label": "Une fois par an, une séance du Conseil municipal et du Conseil métropolitain sera consacrée exclusivement aux projets de l’opposition et des citoyen·ne·s."
+      },
+      {
+        "id": "lepape-p-46",
+        "st": "st-17",
+        "label": "Pratique de l’écriture inclusive dans les textes issus des instances élues et de l’administration territoriale."
+      },
+      {
+        "id": "lepape-p-47",
+        "st": "st-17",
+        "label": "Création d’un site global sur la démocratie locale, en le raccordant à l’application Ici Rennes, afin de regrouper tous les outils et toutes les données utiles à la population."
+      },
+      {
+        "id": "lepape-p-48",
+        "st": "st-17",
+        "label": "Dotation en un serveur local public (data center), géré de manière écologique, afin d’être indépendant des serveurs d’entreprises privées."
+      },
+      {
+        "id": "lepape-p-49",
+        "st": "st-17",
+        "label": "Sortie totale des logiciels proposés par les GAFAM dans l’administration et les services publics municipaux (par exemple : boîtes de messagerie Microsoft) pour y privilégier des logiciels libres."
+      },
+      {
+        "id": "lepape-p-50",
+        "st": "st-17",
+        "label": "Équipement dans chacune des communes de la Métropole en bornes wifi gratuites pour garantir un accès internet à tou·te·s les habitant·e·s."
+      },
+      {
+        "id": "lepape-p-51",
+        "st": "st-17",
+        "label": "Diagnostic de la répartition sur le territoire et du niveau de coordination des neuf FabLabs et ateliers numériques afin d’améliorer leur accessibilité et leur complémentarité."
+      },
+      {
+        "id": "lepape-p-52",
+        "st": "st-17",
+        "label": "Empêchement d’éventuels phénomènes de délation en revoyant les objectifs de l’application RenCitéZen afin de concentrer les signalements via cet outil sur des faits et non sur des personnes."
+      },
+      {
+        "id": "lepape-p-53",
+        "st": "st-17",
+        "label": "Suppression de toutes les subventions directes ou indirectes à des structures religieuses au-delà de ce que la loi impose."
+      },
+      {
+        "id": "lepape-p-54",
+        "st": "st-17",
+        "label": "Remplacement du nom du Boulevard Alexis Carrel, fasciste notoire, par celui d’Ambroise Croizat, Ministre communiste et père de la sécurité sociale."
+      },
+      {
+        "id": "lepape-p-55",
+        "st": "st-17",
+        "label": "Maintien du Comité Consultatif Laïcité de Rennes et proposer sa décentralisation dans les quartiers afin de rapprocher les citoyen.nes des espaces de réflexions et discussions."
+      },
+      {
+        "id": "lepape-p-57",
+        "st": "st-24",
+        "label": "Remise à plat du réseau de bus (horaires, fréquence, trajets), suite à une concertation avec les usager.ere.s. et leurs associations"
+      },
+      {
+        "id": "lepape-p-58",
+        "st": "st-25",
+        "label": "Étude de faisabilité de la mise en place de navettes fluviales sur la Vilaine et le canal, pour des événements particuliers au départ, puis, selon les résultats, à développer au quotidien."
+      },
+      {
+        "id": "lepape-p-59",
+        "st": "st-23",
+        "label": "Construction de parkings-relais en dehors de la rocade afin d’éviter les engorgements dans les quartiers en bordure de rocade de Rennes (La Poterie, Le Blosne, Villejean), reliés aux terminus de métro par des navettes en site propre avec possibilité d’utiliser les services de vélos."
+      },
+      {
+        "id": "lepape-p-60",
+        "st": "st-27",
+        "label": "Finalisation de l’aménagement des transports en commun pour faciliter l’accessibilité des personnes handicapées."
+      },
+      {
+        "id": "lepape-p-61",
+        "st": "st-23",
+        "label": "Fin des stationnements anarchiques et renforcement de la desserte en transports en commun pour aller au Roazhon Park les jours de match, en diversifiant les destinations des navettes vers tous les quartiers périphériques de Rennes : parkings-relais de Villejean, de La Courrouze et de La Poterie."
+      },
+      {
+        "id": "lepape-p-62",
+        "st": "st-20",
+        "label": "Sécurisation des parcours. En finir avec les voies cyclables en pointillé ; les déplacements doivent être possibles sur des zones vélo sécurisées du départ à l’arrivée, notamment sur les 20 % d’axes structurants qui composent la ville."
+      },
+      {
+        "id": "lepape-p-63",
+        "st": "st-20",
+        "label": "Doublement de chacun des grands axes routiers de la Métropole d’une piste cyclable pour créer les meilleures conditions possibles à l’usage du vélo."
+      },
+      {
+        "id": "lepape-p-64",
+        "st": "st-20",
+        "label": "Amélioration des pistes cyclables afin de sécuriser la circulation en séparant nettement les différents modes de déplacement (marquer d’une couleur, privilégier les pistes cyclables plutôt que les bandes, meilleure signalétique…)."
+      },
+      {
+        "id": "lepape-p-65",
+        "st": "st-20",
+        "label": "Plan d’urgence de sécurisation des carrefours les plus dangereux."
+      },
+      {
+        "id": "lepape-p-66",
+        "st": "st-20",
+        "label": "Multiplication des parkings à vélo sécurisés et gratuits."
+      },
+      {
+        "id": "lepape-p-67",
+        "st": "st-20",
+        "label": "Mener une étude sur la faisabilité du transport de vélos par les bus."
+      },
+      {
+        "id": "lepape-p-68",
+        "st": "st-20",
+        "label": "Mise en place de plans de formation pour les agents territoriaux et de la SPL Territoires."
+      },
+      {
+        "id": "lepape-p-69",
+        "st": "st-23",
+        "label": "Suppression du parking Vilaine et votation citoyenne sur le projet à mener."
+      },
+      {
+        "id": "lepape-p-70",
+        "st": "st-23",
+        "label": "Arrêt des suppressions de places de parking dans les quartiers périphériques."
+      },
+      {
+        "id": "lepape-p-71",
+        "st": "st-23",
+        "label": "Fluidification de la circulation en limitant les accélérations et les ralentissements aux différents feux, en installant des feux intelligents"
+      },
+      {
+        "id": "lepape-p-72",
+        "st": "st-23",
+        "label": "Élargissement du plateau piétonnier en centre-ville."
+      },
+      {
+        "id": "lepape-p-73",
+        "st": "st-7",
+        "label": "Moratoire à l’échelle de la Métropole pour les nouveaux projets commerciaux qui s’implantent sur des terres agricoles et qui ne s’accompagnent pas d’un nouveau quartier de logements et d’emplois."
+      },
+      {
+        "id": "lepape-p-74",
+        "st": "st-7",
+        "label": "Achat de terre ou utilisation des terres déjà acquises en périphérie immédiate de la ville, pour les mettre en culture maraîchère et fruitière bio."
+      },
+      {
+        "id": "lepape-p-75",
+        "st": "st-7",
+        "label": "Compensation de toute imperméabilisation de terres destinées à l’agriculture biologique."
+      },
+      {
+        "id": "lepape-p-76",
+        "st": "st-7",
+        "label": "Augmentation de la taxe des terres non bâties et non agricoles."
+      },
+      {
+        "id": "lepape-p-77",
+        "st": "st-7",
+        "label": "Objectif autosuffisance alimentaire : Aide aux projets agricoles respectueux des humains, des animaux et de l’environnement en usant de nos forces foncières, en créant une régie agricole municipale et en intervenant plus concrètement par la construction de serres ou de chambres froides comme le font d’autres collectivités, à l’instar de la Basse-Normandie et de son Pôle d’excellence rurale (Agri’Innov)."
+      },
+      {
+        "id": "lepape-p-78",
+        "st": "st-7",
+        "label": "Adhésion à la démarche de Langouët en interdisant l’usage des pesticides à une distance inférieure à 150 m de toute parcelle cadastrale comprenant un bâtiment à usage d’habitation ou professionnelle."
+      },
+      {
+        "id": "lepape-p-79",
+        "st": "st-7",
+        "label": "Fin des subventions à l’agriculture intensive (par exemple, 220 000 € sont distribués à l’industrie du lait pour exporter en Chine)."
+      },
+      {
+        "id": "lepape-p-80",
+        "st": "st-7",
+        "label": "Interdiction des fermes-usines sur le territoire (par exemple, la ferme des 800 veaux de Saint-Gilles ou celle de Romillé)."
+      },
+      {
+        "id": "lepape-p-81",
+        "st": "st-15",
+        "label": "Moratoire sur les projets immobiliers de grande hauteur contestés par les habitant·e·s."
+      },
+      {
+        "id": "lepape-p-82",
+        "st": "st-15",
+        "label": "Arrêt des campagnes de publicité massives pour faire venir coûte que coûte toujours plus de monde sur notre territoire."
+      },
+      {
+        "id": "lepape-p-83",
+        "st": "st-15",
+        "label": "Travail avec les territoires voisins à l’échelle régionale et interrégionale, pour réduire le phénomène de dévitalisation qui entraîne la fuite des actif·ve·s et des entreprises vers notre Métropole."
+      },
+      {
+        "id": "lepape-p-84",
+        "st": "st-15",
+        "label": "Mise en place de la politique des trois « R » : Rénover, Reconstruire, Réquisitionner. "
+      },
+      {
+        "id": "lepape-p-85",
+        "st": "st-15",
+        "label": "Garantie pour les habitant·e·s d’une véritable qualité de vie en ville, en prenant en compte l’avis des riverain·e·s et des conseils de quartier dès le début de la réflexion."
+      },
+      {
+        "id": "lepape-p-86",
+        "st": "st-16",
+        "label": "Installation de zones franches par le jeu de la fiscalité pour inciter les entreprises à s’installer dans d’autres communes de la Métropole afin de limiter les déplacements."
+      },
+      {
+        "id": "lepape-p-87",
+        "st": "st-16",
+        "label": "Arrêt de constructions de technopôles sur le cœur de Métropole pour privilégier d’autres communes. Ceci nécessite de revoir le SAE (Schéma d’aménagement économique)."
+      },
+      {
+        "id": "lepape-p-88",
+        "st": "st-16",
+        "label": "Réorientation et diversification autant que possible de l’usage des bâtiments de la ZAC EuroRennes."
+      },
+      {
+        "id": "lepape-p-89",
+        "st": "st-16",
+        "label": "Décentralisation de certaines administrations métropolitaines en dehors de la commune de Rennes."
+      },
+      {
+        "id": "lepape-p-90",
+        "st": "st-16",
+        "label": "Rapprochement de l’emploi et de l’habitat dans la Métropole et dans chaque commune : les activités économiques seront conditionnées à une étude préalable sur l’opportunité d’un projet d’une telle ampleur, et sur l’étude des capacités de densification des zones existantes"
+      },
+      {
+        "id": "lepape-p-91",
+        "st": "st-33",
+        "label": "Les élu·e·s Rennes En Commun seront des élu·e·s militant·e·s, qui soutiendront les mobilisations pour le maintien et le développement du service public de proximité."
+      },
+      {
+        "id": "lepape-p-92",
+        "st": "st-33",
+        "label": "Facilitation logistique pour ces mobilisations : prêts de salles, informations de la population, opérations de soutien tant du côté des personnels que des usager·ère·s…"
+      },
+      {
+        "id": "lepape-p-93",
+        "st": "st-33",
+        "label": "Multiplication des guichets uniques dans les différents communes et quartiers, ouverts à des horaires décents, pour faciliter les démarches des usager·ère·s."
+      },
+      {
+        "id": "lepape-p-94",
+        "st": "st-33",
+        "label": "Recensement statistique et promotion de la place des femmes dans le choix des noms de rues et des places avec, à terme, un objectif de parité."
+      },
+      {
+        "id": "lepape-p-95",
+        "st": "st-22",
+        "label": "Gratuité des transports en commun métropolitains pour tous d’ici la fin du mandat."
+      },
+      {
+        "id": "lepape-p-96",
+        "st": "st-22",
+        "label": "Pas 1 euro d’argent public pour favoriser l’extension directe ou indirecte de l’aéroport de Rennes–Saint-Jacques."
+      }
+    ]
+  },
+  {
+    "id": "darcel",
+    "tetes": [{
+      "prenom": "Franck",
+      "nom": "Darcel"
+    }],
+    "parti": "REG",
+    "liste": "Rennes Bretagne Europe",
+    "website": "rbe2020darcel.bzh",
+    "twitter": "RBEdaViken",
+    "twitterFollowers": "181",
+    "facebook": "DarcelRennesBretagneEurope",
+    "facebookFollowers": "574",
+    "propositions": [{
+      "id": "darcel-p-1",
+      "st": "st-19",
+      "label": "Redéfinir les tâches de la Police Municipale"
+    },
+      {
+        "id": "darcel-p-2",
+        "st": "st-19",
+        "label": "Création d'un service de Police Municipale de nuit pour lutter contre le tapage nocturne"
+      },
+      {
+        "id": "darcel-p-3",
+        "st": "st-19",
+        "label": "S'assurer que la Police Municipale recrute en fonction de la diversité culturelle de la ville et que ses effectifs soient ainsi représentatifs de la population rennaise"
+      },
+      {
+        "id": "darcel-p-4",
+        "st": "st-25",
+        "label": "Les conciergeries dans les immeubles doivent être développées, certains des concierges à demeure pourront être assermentés pour dresser un constat, qui aura une valeur en justice"
+      },
+      {
+        "id": "darcel-p-5",
+        "st": "st-25",
+        "label": "Les horaires d'ouverture et de fermeture des établissements de nuit en ville doivent dépendre à l'avenir d’une discussion constructive entre la mairie et la préfecture"
+      },
+      {
+        "id": "darcel-p-6",
+        "st": "st-25",
+        "label": "Limitation de détention de Licence IV."
+      },
+      {
+        "id": "darcel-p-7",
+        "st": "st-19",
+        "label": "Création d'un lieu dédié, hors des commissariats pour les dépôts de plaintes relatives aux insultes sexistes ou au harcèlement de rue"
+      },
+      {
+        "id": "darcel-p-8",
+        "st": "st-25",
+        "label": "Ouverture d'un débat à l'échelle régionale sur la légalisation du cannabis"
+      },
+      {
+        "id": "darcel-p-9",
+        "st": "st-25",
+        "label": "Mise en place d'une politique beaucoup plus contraignante concernant la vente des alcools forts"
+      },
+      {
+        "id": "darcel-p-10",
+        "st": "st-25",
+        "label": "Augmentation des peines, et réelle application, envers les personnes agressant les pompiers et les personnels médicaux et paramédicaux"
+      },
+      {
+        "id": "darcel-p-11",
+        "st": "st-25",
+        "label": "Consultation citoyenne quant à l'installation de caméras"
+      },
+      {
+        "id": "darcel-p-12",
+        "st": "st-25",
+        "label": "Création d'un poste de médiateur dédié à la sécurité"
+      },
+      {
+        "id": "darcel-p-13",
+        "st": "st-25",
+        "label": "Les établissements scolaires et leurs abords doivent être protégés en priorité"
+      },
+      {
+        "id": "darcel-p-14",
+        "st": "st-23",
+        "label": "Aller vers le mieux-disant qualitatif lors des appels d'offres et faire participer les citoyens aux choix les plus importants"
+      },
+      {
+        "id": "darcel-p-15",
+        "st": "st-23",
+        "label": "Inviter les conseillers municipaux en charge de l'urbanisme à visiter d’autres villes d'Europe"
+      },
+      {
+        "id": "darcel-p-16",
+        "st": "st-23",
+        "label": "Exiger l'excellence en termes de conception écologique pour tout nouvelles constructions collectives dans le cadre du Grand Rennes"
+      },
+      {
+        "id": "darcel-p-17",
+        "st": "st-23",
+        "label": "Exiger un moratoire sur les destructions de maisons et d'immeubles anciens dans Rennes et sa première couronne"
+      },
+      {
+        "id": "darcel-p-18",
+        "st": "st-23",
+        "label": "Les possibilités ouvertes par le Grand Rennes permettront d'envisager de dessiner le Rennes de demain en établissant des perspectives dignes d'une ville européenne d'envergure"
+      },
+      {
+        "id": "darcel-p-19",
+        "st": "st-21",
+        "label": "Prolongement par le tramway classique, et non le trambus, des lignes de métro"
+      },
+      {
+        "id": "darcel-p-20",
+        "st": "st-21",
+        "label": "Financement du prolongement sera fait en demandant tout d'abord à Bercy de rendre une partie de l'argent que l'Île-de-France capte tout au long de l'année"
+      },
+      {
+        "id": "darcel-p-21",
+        "st": "st-26",
+        "label": "Augmentation des haltes SNCF et des fréquences sur les ligne TER qui relient les communes du Pays de Rennes à la gare de Rennes"
+      },
+      {
+        "id": "darcel-p-22",
+        "st": "st-22",
+        "label": "Gratuité des transports pour tous les étudiants"
+      },
+      {
+        "id": "darcel-p-23",
+        "st": "st-20",
+        "label": "Plan vélo digne de ce qui se fait de mieux dans les autres pays européens"
+      },
+      {
+        "id": "darcel-p-24",
+        "st": "st-22",
+        "label": "Agrandissement du plateau piétonnier à la rue de la Monnaie à partir de la Place des Lices ainsi qu’aux rues délimitant la place de la Mairie et du parlement de Bretagne"
+      },
+      {
+        "id": "darcel-p-25",
+        "st": "st-22",
+        "label": "Remise à l’étude le barreau de contournement de Rennes pour éviter aux personnes allant, entre autres, de Paris vers la Bretagne Sud de passer par la rocade de Rennes"
+      },
+      {
+        "id": "darcel-p-26",
+        "st": "st-22",
+        "label": "Mise à l’étude d’une bretelle de déviation pour sortir de la rocade en direction de l’axe Lorient/Vannes"
+      },
+      {
+        "id": "darcel-p-27",
+        "st": "st-9",
+        "label": "Réhabilitation de la Salle de la Cité en salle de concerts"
+      },
+      {
+        "id": "darcel-p-28",
+        "st": "st-9",
+        "label": "Aide aux cafés concerts de la ville pour une insonorisation de qualité"
+      },
+      {
+        "id": "darcel-p-29",
+        "st": "st-9",
+        "label": "Transformer la salle Guy Ropartz en lieu de culture Hip-Hop"
+      },
+      {
+        "id": "darcel-p-30",
+        "st": "st-9",
+        "label": "Construction d'une Arena, avec consultation de la population sur le lieu à choisir"
+      },
+      {
+        "id": "darcel-p-31",
+        "st": "st-9",
+        "label": "Travailler à l'idée d'un grand musée des peintres de Bretagne"
+      },
+      {
+        "id": "darcel-p-32",
+        "st": "st-9",
+        "label": "Pérenniser un lieu d'exposition pour la photographie"
+      },
+      {
+        "id": "darcel-p-33",
+        "st": "st-9",
+        "label": "Création d'un Musée du Patrimoine Ducal dans les Portes Mordelaises"
+      },
+      {
+        "id": "darcel-p-34",
+        "st": "st-9",
+        "label": "Création d'une maison des langues patrimoniales"
+      },
+      {
+        "id": "darcel-p-35",
+        "st": "st-9",
+        "label": "Aide au développement de media puissants propres à la Bretagne et dont les sièges pourraient s’installer à Rennes"
+      },
+      {
+        "id": "darcel-p-36",
+        "st": "st-9",
+        "label": "Rennes doit pousser le gouvernement à ratifier la Charte des Langues Minoritaires"
+      },
+      {
+        "id": "darcel-p-37",
+        "st": "st-9",
+        "label": "Répéter que le racisme sous toutes ses formes doit être combattu"
+      },
+      {
+        "id": "darcel-p-38",
+        "st": "st-9",
+        "label": "S’assurer que les nouveaux arrivants ont bien compris qu’il y a des règles communes à tous intangibles pour que le vivre-ensemble soit possible"
+      },
+      {
+        "id": "darcel-p-39",
+        "st": "st-9",
+        "label": "Aider à l’intégration par des cours de français plus soutenus, et des cours sur l’histoire locale"
+      },
+      {
+        "id": "darcel-p-40",
+        "st": "st-9",
+        "label": "Créer une Maison des Communautés, qui soit un lieu d’échange, en centre-ville, entre les différentes communautés qui composent la ville"
+      },
+      {
+        "id": "darcel-p-41",
+        "st": "st-9",
+        "label": "Demander à la préfecture et à toutes les autorités la transparence totale sur les populations accueillies, et sur la mise à disposition des logements sociaux pour des personnes dont la plupart ne sont pas des demandeurs d'asile (cf réserve préfectorale)"
+      },
+      {
+        "id": "darcel-p-42",
+        "st": "st-27",
+        "label": "Aider les personnes souffrant de handicap dans tous les actes de la vie quotidienne"
+      },
+      {
+        "id": "darcel-p-43",
+        "st": "st-27",
+        "label": "Renforcer la chartre existante avec des objectifs réellement concrets"
+      },
+      {
+        "id": "darcel-p-44",
+        "st": "st-27",
+        "label": "Dédier des lieux à destination des associations de personnes souffrant de handicap en allégeant les procédures administratives et en proposant des tarifs plus raisonnables"
+      },
+      {
+        "id": "darcel-p-45",
+        "st": "st-27",
+        "label": "Éditer un guide en braille, avec traduction de mots essentiels en langue des signes, support papier recyclable classique pour les démarches administratives"
+      },
+      {
+        "id": "darcel-p-46",
+        "st": "st-27",
+        "label": "Pour les déficients mentaux : une formation spécifique doit être donnée aux agents d'accueil"
+      },
+      {
+        "id": "darcel-p-47",
+        "st": "st-27",
+        "label": "Faire évoluer la connaissance de tous vis-à-vis des handicaps invisibles"
+      },
+      {
+        "id": "darcel-p-48",
+        "st": "st-27",
+        "label": "Création d’un guide du respect de la différence"
+      },
+      {
+        "id": "darcel-p-49",
+        "st": "st-27",
+        "label": "Développer les feux (passages piétons) sonores"
+      },
+      {
+        "id": "darcel-p-50",
+        "st": "st-27",
+        "label": "Développer également l’information en braille dans les abribus"
+      },
+      {
+        "id": "darcel-p-51",
+        "st": "st-23",
+        "label": "Garder les parkings sur la Vilaine en l’état, les samedi après-midi, les parcmètres gratuits dans les rues du centre"
+      },
+      {
+        "id": "darcel-p-52",
+        "st": "st-28",
+        "label": "Encadrement des loyers commerciaux par la mairie en centre-ville"
+      },
+      {
+        "id": "darcel-p-53",
+        "st": "st-28",
+        "label": "Lier intelligemment tourisme et commerce en redonnant à l’histoire de Bretagne toute sa place dans les circuits touristico-commerciaux dans la ville"
+      },
+      {
+        "id": "darcel-p-54",
+        "st": "st-6",
+        "label": "Installation d'urinoirs pérennes dans plusieurs endroits de la ville"
+      },
+      {
+        "id": "darcel-p-55",
+        "st": "st-28",
+        "label": "Travailler l’image des commerces du centre-ville à destination de tout le Pays de Rennes"
+      },
+      {
+        "id": "darcel-p-56",
+        "st": "st-28",
+        "label": "Réflexion sur un circuit de distribution collectif pour livrer les achats vers les domiciles des acheteurs"
+      },
+      {
+        "id": "darcel-p-57",
+        "st": "st-23",
+        "label": "Agrandissement du plateau piétonnier est susceptible d’augmenter l’attrait du centre-ville"
+      },
+      {
+        "id": "darcel-p-58",
+        "st": "st-32",
+        "label": "Rester vigilants pour que les associations continuent de bénéficier d’un mode de fonctionnement simplifié vis-à-vis de l’administration d’État"
+      },
+      {
+        "id": "darcel-p-59",
+        "st": "st-32",
+        "label": "Rester vigilants pour que les associations continuent de bénéficier d’un mode de fonctionnement simplifié vis-à-vis de l’administration d’État"
+      },
+      {
+        "id": "darcel-p-60",
+        "st": "st-32",
+        "label": "Veiller à ce que les associations conservent le maximum de liberté d’action vis-à- vis des autorités politiques"
+      },
+      {
+        "id": "darcel-p-61",
+        "st": "st-32",
+        "label": "Maintenir le niveau des subventions acté jusque-là"
+      },
+      {
+        "id": "darcel-p-62",
+        "st": "st-32",
+        "label": "Création d'un Conseil des Associations, devra compter en son sein, en plus du conseiller municipal aux associations, ceux qui sont délégués aux sports, à la culture et aux relations internationales, des représentants du MAR et d’autres membres élus par l’ensemble des associations"
+      },
+      {
+        "id": "darcel-p-63",
+        "st": "st-32",
+        "label": "Conseil des Associations qui mettra en lien des associations en recherche de mécénat avec des associations entrepreneuriales bretonnes et la diaspora"
+      },
+      {
+        "id": "darcel-p-64",
+        "st": "st-32",
+        "label": "Sanctuariser de nouveaux lieux vers les associations"
+      },
+      {
+        "id": "darcel-p-65",
+        "st": "st-32",
+        "label": "Mettre en avant et cultiver la cohérence et les synergies entre les associations de Rennes et celles des villes de la première couronne"
+      },
+      {
+        "id": "darcel-p-66",
+        "st": "st-32",
+        "label": "Mettre en place une campagne de communication récurrente à l’intention de tous les Rennais et des habitants de la première couronne"
+      },
+      {
+        "id": "darcel-p-67",
+        "st": "st-12",
+        "label": "S’engager pour que le personnel médical partage à égale proportion la prise de décisions concernant les orientations et l’avenir de l’hôpital public"
+      },
+      {
+        "id": "darcel-p-68",
+        "st": "st-12",
+        "label": "Faire en sorte de lier profondément santé et écologie"
+      },
+      {
+        "id": "darcel-p-69",
+        "st": "st-7",
+        "label": "Végétaliser la ville, planter plus et protéger les arbres. Penser aux arbres fruitiers pour planifier à terme des politiques d’autosuffisance"
+      },
+      {
+        "id": "darcel-p-70",
+        "st": "st-12",
+        "label": "Prendre en main à l’échelon local le principe de précaution"
+      },
+      {
+        "id": "darcel-p-71",
+        "st": "st-12",
+        "label": "Prendre en compte à l’échelle de la ville les approches médicales différentes qui évitent les dépenses inutiles et augmentent la sur-médication"
+      },
+      {
+        "id": "darcel-p-72",
+        "st": "st-7",
+        "label": "Création d’un pôle de développement et d’enseignement d’agriculture écologique"
+      },
+      {
+        "id": "darcel-p-73",
+        "st": "st-12",
+        "label": "Mener une politique sans tabou contre les addictions en prenant exemple sur ce qui fonctionne bien ailleurs"
+      },
+      {
+        "id": "darcel-p-74",
+        "st": "st-12",
+        "label": "Désengorger l’hôpital de Pontchaillou en créant une nouvelle structure hors rocade pour les maladies longue durée"
+      },
+      {
+        "id": "darcel-p-75",
+        "st": "st-19",
+        "label": "Installer de manière pérenne des policiers dans l’enceinte de Pontchaillou"
+      },
+      {
+        "id": "darcel-p-76",
+        "st": "st-6",
+        "label": "Rappeler qu’une des missions premières de la police municipale est de combattre ces incivilités qui impactent souvent la propreté de la ville"
+      },
+      {
+        "id": "darcel-p-77",
+        "st": "st-6",
+        "label": "Insister pour que cette police municipale fasse respecter fermement les arrêtés municipaux concernant l’interdiction de la consommation d’alcool sur la voie publique"
+      },
+      {
+        "id": "darcel-p-78",
+        "st": "st-6",
+        "label": "Installer des vespasiennes dans plusieurs endroits de la ville"
+      },
+      {
+        "id": "darcel-p-79",
+        "st": "st-6",
+        "label": "Être beaucoup plus ferme en ce qui concerne les déjections canines"
+      },
+      {
+        "id": "darcel-p-80",
+        "st": "st-6",
+        "label": "Revoir les cadences de passage des éboueurs car elles ont sensiblement diminué ces derniers temps dans de nombreux quartiers"
+      },
+      {
+        "id": "darcel-p-81",
+        "st": "st-5",
+        "label": "Augmentation du nombre de crèches en ville en pensant aux mini-crèches dans les immeubles"
+      },
+      {
+        "id": "darcel-p-82",
+        "st": "st-9",
+        "label": "Appliquer à Rennes le Programme Multilingue Breton à toutes les filières bilingues breton-français existantes"
+      },
+      {
+        "id": "darcel-p-83",
+        "st": "st-5",
+        "label": "Mettre en place dès l’école primaire des protocoles centralisés de surveillance contre le harcèlement"
+      },
+      {
+        "id": "darcel-p-84",
+        "st": "st-5",
+        "label": "Retour à la semaine de quatre jours pour les établissements primaires publics dans la ville"
+      },
+      {
+        "id": "darcel-p-85",
+        "st": "st-5",
+        "label": "Mettre l’accent dès le primaire sur l’éducation et l’histoire européenne"
+      },
+      {
+        "id": "darcel-p-86",
+        "st": "st-29",
+        "label": "Le trilinguisme assumé doit être la norme dès l’entrée au collège à Rennes"
+      },
+      {
+        "id": "darcel-p-87",
+        "st": "st-29",
+        "label": "Garantir pour chaque enfant l’accès au sport, à la culture en intégrant des actions inter écoles"
+      },
+      {
+        "id": "darcel-p-88",
+        "st": "st-5",
+        "label": "Accueil des enfants issus d’autres cultures : leur garantir des cours sur l’enseignement des valeurs européennes de démocratie et de tolérance"
+      },
+      {
+        "id": "darcel-p-89",
+        "st": "st-29",
+        "label": "Créer un observatoire centralisé par la mairie des manquements au respect des professeurs du secondaire dans les collèges et lycées de la ville"
+      },
+      {
+        "id": "darcel-p-90",
+        "st": "st-31",
+        "label": "Créer des ponts entre enseignements secondaire et universitaires"
+      },
+      {
+        "id": "darcel-p-91",
+        "st": "st-31",
+        "label": "Soutenir la création d’une Université de Bretagne qui regroupera les campus de Rennes, Nantes et Brest et les campus des autres villes bretonnes"
+      },
+      {
+        "id": "darcel-p-92",
+        "st": "st-31",
+        "label": "Développer l’attractivité de Rennes dans les unités de recherche pour conserver nos bons chercheurs et en attirer d’autres"
+      }
+    ]
+  },
+  {
+    "id": "salmon",
+    "tetes": [{
+      "prenom": "Émeric",
+      "nom": "Salmon"
+    }],
+    "parti": "RN",
+    "website": "rassemblement-national35.fr",
+    "liste": "Rassemblement national",
+    "twitter": "EmericSalmon",
+    "twitterFollowers": "2913",
+    "facebook": "Emeric-Salmon-Candidat-RN-aux-Municipales-2020-à-Rennes-102165164544829",
+    "facebookFollowers": "212",
+    "propositions": [{
+      "id": "salmon-p-1",
+      "st": "st-7",
+      "label": "Développer la végétalisation et les îlots de fraîcheur en transformant des places et dalles actuellement sans usage",
+      "important": true
+    },
+      {
+        "id": "salmon-p-2",
+        "st": "st-23",
+        "label": "Promouvoir l’éclairage public intelligent et atteindre le 100 % LED"
+      },
+      {
+        "id": "salmon-p-3",
+        "st": "st-24",
+        "label": "Encourager les bus à hydrogène et promouvoir la filière bretonne"
+      },
+      {
+        "id": "salmon-p-4",
+        "st": "st-20",
+        "label": "Sécuriser les pistes cyclables en privilégiant les voies en site propre"
+      },
+      {
+        "id": "salmon-p-5",
+        "st": "st-5",
+        "label": "Favoriser le localisme dans les cantines",
+        "important": true
+      },
+      {
+        "id": "salmon-p-6",
+        "st": "st-3",
+        "label": "Compléter et encourager les AMAP pour la livraison de fruits et légumes locaux"
+      },
+      {
+        "id": "salmon-p-7",
+        "st": "st-2",
+        "label": "Développer les jardins partagés et familiaux"
+      },
+      {
+        "id": "salmon-p-8",
+        "st": "st-8",
+        "label": "Mettre en place des chaufferies bois pour nos piscines en les finançant grâce aux fonds « européens »"
+      },
+      {
+        "id": "salmon-p-8",
+        "st": "st-28",
+        "label": "Installer des marchés permanents dans les quartiers, ouverts aux producteurs locaux",
+        "important": true
+      },
+      {
+        "id": "salmon-p-9",
+        "st": "st-15",
+        "label": "Fin au bétonnage en développant les identités de quartier et en respectant leur dimension paysagère"
+      },
+      {
+        "id": "salmon-p-10",
+        "st": "st-27",
+        "label": "Evaluer et à éliminer tous les obstacles rencontrés par les personnes à mobilité réduite"
+      },
+      {
+        "id": "salmon-p-11",
+        "st": "st-28",
+        "label": "Redynamiser les dalles commerciales dans chaque quartier"
+      },
+      {
+        "id": "salmon-p-12",
+        "st": "st-23",
+        "label": "Mener un audit sur les passoires énergétiques"
+      },
+      {
+        "id": "salmon-p-13",
+        "st": "st-19",
+        "label": "Augmentation des effectifs de police municipale: doublement sous 2 ans, triplement d'ici 2026",
+        "important": true
+      },
+      {
+        "id": "salmon-p-14",
+        "st": "st-19",
+        "label": "Armement immédiat avec armes électriques puis armes létales identiques à la Police Nationale. Disponibilité 7j/7; 24h/24"
+      },
+      {
+        "id": "salmon-p-15",
+        "st": "st-19",
+        "label": "Mise en place d’une brigade de nuit"
+      },
+      {
+        "id": "salmon-p-16",
+        "st": "st-25",
+        "label": "Augmentation du nombre de caméras fixes et mobiles et acquisition de caméras intelligentes"
+      },
+      {
+        "id": "salmon-p-17",
+        "st": "st-25",
+        "label": "Mise en place du dispositif « Rennes Ville Sûre » permettant aux rennais qui le souhaitent d’alerter en cas d’urgence d’un simple clic les forces de l’ordre"
+      },
+      {
+        "id": "salmon-p-18",
+        "st": "st-25",
+        "label": "Travaux d’Intérêt Général pour réparation suite à une incivilité"
+      },
+      {
+        "id": "salmon-p-19",
+        "st": "st-22",
+        "label": "Gratuité des transports en commun le samedi",
+        "important": true
+      },
+      {
+        "id": "salmon-p-20",
+        "st": "st-22",
+        "label": "Baisser de 10% l’ensemble des tarifs d’abonnement pour tous"
+      },
+      {
+        "id": "salmon-p-21",
+        "st": "st-22",
+        "label": "Réduction de 50% pour les étudiants sur la grille tarifaire d’abonnement"
+      },
+      {
+        "id": "salmon-p-22",
+        "st": "st-22",
+        "label": "Gratuité du transport 1h avant et 1h après un trajet au départ ou à l’arrivée de la gare de Rennes avec un titre de transport SNCF valide"
+      },
+      {
+        "id": "salmon-p-23",
+        "st": "st-22",
+        "label": "Encouragement du télétravail par la réduction du versement mobilité des entreprises mettant en place cette solution pour leurs employés",
+        "important": true
+      },
+      {
+        "id": "salmon-p-24",
+        "st": "st-22",
+        "label": "Développement des transports et des parkings relais en dehors de la rocade"
+      },
+      {
+        "id": "salmon-p-25",
+        "st": "st-22",
+        "label": "Mise à l’étude du contournement de la rocade par le nord"
+      },
+      {
+        "id": "salmon-p-26",
+        "st": "st-23",
+        "label": "Tout aménagement urbain devra être réfléchi en concertation avec les riverains et associations pour garantir un minimum de 10 ans sans travaux"
+      },
+      {
+        "id": "salmon-p-27",
+        "st": "st-20",
+        "label": "Mise en sécurité des pistes cyclables dangereuses : fin des discontinuités, réaménagement des partages cyclistes-piétons, couleur de revêtement spécifique pour l’ensemble du réseau vélo",
+        "important": true
+      },
+      {
+        "id": "salmon-p-28",
+        "st": "st-20",
+        "label": "Etude de la possibilité de mise en place de Vélo-rues"
+      },
+      {
+        "id": "salmon-p-29",
+        "st": "st-20",
+        "label": "Développement du système de location de vélos électriques STAR"
+      },
+      {
+        "id": "salmon-p-30",
+        "st": "st-28",
+        "label": "Mise en place d’un système : 1 € dépensé en centre-ville donne droit à 1 minute de stationnement gratuit"
+      },
+      {
+        "id": "salmon-p-31",
+        "st": "st-28",
+        "label": "Information dans le magazine municipal sur les créations de nouveaux commerces"
+      },
+      {
+        "id": "salmon-p-32",
+        "st": "st-30",
+        "label": "Facilitation de l’ouverture de pépinières d’entreprise dans les quartiers"
+      },
+      {
+        "id": "salmon-p-33",
+        "st": "st-12",
+        "label": "Mise en place d’une mutuelle municipale afin de garantir l’accès à des offres de soins à prix abordable à l’ensemble des Rennais",
+        "important": true
+      },
+      {
+        "id": "salmon-p-34",
+        "st": "st-12",
+        "label": "Conservation du caractère de service public et de santé pour les locaux de l’hôpital sud"
+      },
+      {
+        "id": "salmon-p-35",
+        "st": "st-12",
+        "label": "Développement des maisons communes de santé dans les quartiers afin de réduire les délais d’attente chez les praticiens"
+      },
+      {
+        "id": "salmon-p-36",
+        "st": "st-11",
+        "label": "Mise en oeuvre d’un Plan Piscine : Rénovation des piscines de Bréquigny et Saint-Georges, développement d’une filière d’excellence de formation des maitres-nageurs sauveteurs"
+      },
+      {
+        "id": "salmon-p-37",
+        "st": "st-11",
+        "label": "Aide au développement des activités sportives par les clubs amateurs et également par un soutien au sport de haut niveau"
+      },
+      {
+        "id": "salmon-p-38",
+        "st": "st-9",
+        "label": "Création d’un événement important culturel sur l’histoire de la ville de Rennes (autour de Condate)"
+      },
+      {
+        "id": "salmon-p-39",
+        "st": "st-9",
+        "label": "Aide au développement des spectacles par des artistes locaux"
+      },
+      {
+        "id": "salmon-p-40",
+        "st": "st-9",
+        "label": "Soutien et accompagnement des associations de théâtre, musique, beaux-arts…mise à disposition de locaux"
+      },
+      {
+        "id": "salmon-p-41",
+        "st": "st-9",
+        "label": "Conservation de l’Arvor rue d’Antrain en cinéma de quartier associatif spécialisé"
+      },
+      {
+        "id": "salmon-p-42",
+        "st": "st-9",
+        "label": "Festival de musique consacré à Gabriel Fauré, grand compositeur qui a été Rennais"
+      },
+      {
+        "id": "salmon-p-43",
+        "st": "st-9",
+        "label": "Gestion des subventions aux associations sous condition de neutralité politique"
+      },
+      {
+        "id": "salmon-p-44",
+        "st": "st-9",
+        "label": "Aucune subvention ne sera versée à des associations commettant des actes illégaux"
+      },
+      {
+        "id": "salmon-p-45",
+        "st": "st-17",
+        "label": "Aucune augmentation des impôts locaux sur la durée du mandat",
+        "important": true
+      },
+      {
+        "id": "salmon-p-46",
+        "st": "st-17",
+        "label": "Réduction du nombre d’adjoints au maire à 12 adjoints. Chaque adjoint aura une responsabilité fonctionnelle et une responsabilité d’un quartier de Rennes"
+      }
+    ]
+  },
+  {
+    "id": "hamon",
+    "tetes": [{
+      "prenom": "Valérie",
+      "nom": "Hamon"
+    }],
+    "parti": "LO",
+    "liste": "Lutte ouvrière – Faire entendre le camp des travailleurs",
+    "website": "www.lutte-ouvriere.org",
+    "twitter": "LutteOuvriere",
+    "propositions": [{
+      "id": "hamon-p-1",
+      "st": "st-7",
+      "label": "Seuls les travailleurs ont, par leur rôle au cœur de l’économie, la puissance sociale à même de renverser le capitalisme qui afflige l’humanité et la planète de dégâts irrémédiables"
+    },
+      {
+        "id": "hamon-p-2",
+        "st": "st-13",
+        "label": "Une mairie au service des travailleurs appuiera les habitants des quartiers ouvriers mobilisés pour réquisitionner les logements vides pour qu’aucune famille, aucun enfant ne dorme dehors"
+      }
+    ]
+  },
+  {
+    "id": "ouvrier",
+    "tetes": [{
+      "prenom": "Laurent & Pierre",
+      "nom": "Priet"
+    },
+      {
+        "prenom": "Louis",
+        "nom": "Renault"
+      }
+    ],
+    "parti": "Parti ouvrier démocratique indépendant (POID)",
+    "liste": "Rennes 100% public",
+    "website": "parti-ouvrier-independant.fr",
+    "twitter": "Parti_Ouvrier",
+    "propositions": [{
+      "id": "ouvrier-p-1",
+      "st": "st-26",
+      "label": "Priorité au ferroviaire en agissant pour la réouverture de la ligne Rennes, Fougères ainsi que les gares qui ont été fermées sous le dernier mandat"
+    },
+      {
+        "id": "ouvrier-p-2",
+        "st": "st-22",
+        "label": "Les transports en commun gratuits immédiatement"
+      },
+      {
+        "id": "ouvrier-p-3",
+        "st": "st-7",
+        "label": "Remunicipalisation de tous les services dépendants des jardins"
+      },
+      {
+        "id": "ouvrier-p-4",
+        "st": "st-7",
+        "label": "Création d’une pépinière municipale ou intercommunautaire"
+      },
+      {
+        "id": "ouvrier-p-5",
+        "st": "st-15",
+        "label": "Interdire les expulsions locatives"
+      },
+      {
+        "id": "ouvrier-p-6",
+        "st": "st-15",
+        "label": "Retour de l’aide à la pierre qui permet de mettre sur le marché des logements à loyers réellement modérés"
+      },
+      {
+        "id": "ouvrier-p-7",
+        "st": "st-6",
+        "label": "Collecte des ordures ménagères doit être reprise en régie municipale"
+      }
+    ]
+  }
+]
