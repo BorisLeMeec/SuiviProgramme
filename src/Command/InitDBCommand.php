@@ -122,7 +122,7 @@ class InitDBCommand extends Command
         foreach ($persons as $person) {
             $newP = new Person();
 
-            $newP->setName()
+            $newP->setName('');
         }
     }
 }
