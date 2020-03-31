@@ -46,10 +46,6 @@ class Proposal
      */
     private $title = '';
 
-    /**
-     * @ORM\Column(type="blob")
-     */
-    private $description;
 
     /**
      * @ORM\Column(type="integer")
@@ -87,9 +83,20 @@ class Proposal
      */
     private $slug;
 
+    /**
+     * @ORM\ManyToMany(targetEntity="App\Entity\Device", inversedBy="favorites")
+     */
+    private $followers;
+
+    /**
+     * @ORM\Column(type="string", length=2000, nullable=true)
+     */
+    private $description;
+
     public function __construct()
     {
         $this->category = new ArrayCollection();
+        $this->followers = new ArrayCollection();
     }
 
     public function getId(): ?int
@@ -227,6 +234,32 @@ class Proposal
     public function setSlug(string $slug): self
     {
         $this->slug = $slug;
+
+        return $this;
+    }
+
+    /**
+     * @return Collection|Device[]
+     */
+    public function getFollowers(): Collection
+    {
+        return $this->followers;
+    }
+
+    public function addFollower(Device $follower): self
+    {
+        if (!$this->followers->contains($follower)) {
+            $this->followers[] = $follower;
+        }
+
+        return $this;
+    }
+
+    public function removeFollower(Device $follower): self
+    {
+        if ($this->followers->contains($follower)) {
+            $this->followers->removeElement($follower);
+        }
 
         return $this;
     }
