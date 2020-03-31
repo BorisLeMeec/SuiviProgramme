@@ -7,6 +7,8 @@ use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;
 
+use App\Controller\LikeProposal;
+
 /**
  * @ApiResource(
  *     collectionOperations={
@@ -14,6 +16,11 @@ use Doctrine\ORM\Mapping as ORM;
  *     },
  *     itemOperations={
  *         "get",
+ *         "like_publication"={
+ *             "method"="POST",
+ *             "path"="/proposals/{id}/like",
+ *             "controller"=LikeProposal::class,
+ *         }
  *     }
  * )
  * @ORM\Entity
