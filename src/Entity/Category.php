@@ -8,9 +8,17 @@ use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;
 
+use App\Controller\CategoriesNoParent;
+
 /**
  * @ApiResource(
- *     collectionOperations={"get"},
+ *     collectionOperations={
+ *          "getFromParent"={
+ *             "method"="GET",
+ *             "path"="/categories",
+ *             "controller"=CategoriesNoParent::class,
+ *         }
+ *     },
  *     itemOperations={"get"}
  * )
  * @ORM\Entity
