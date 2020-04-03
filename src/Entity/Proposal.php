@@ -8,11 +8,16 @@ use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;
 
 use App\Controller\LikeProposal;
+use App\Controller\SearchProposal;
 
 /**
  * @ApiResource(
  *     collectionOperations={
- *         "get",
+ *         "search"={
+ *             "method"="GET",
+ *             "path"="/proposals",
+ *             "controller"=SearchProposal::class,
+ *         }
  *     },
  *     itemOperations={
  *         "get",
@@ -23,7 +28,7 @@ use App\Controller\LikeProposal;
  *         }
  *     }
  * )
- * @ORM\Entity
+ * @ORM\Entity(repositoryClass="App\Repository\ProposalRepository")
  */
 class Proposal
 {
