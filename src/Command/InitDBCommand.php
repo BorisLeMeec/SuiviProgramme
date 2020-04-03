@@ -135,7 +135,17 @@ class InitDBCommand extends Command
 
                 $proposal->setSlug($proposition['id']);
                 $proposal->setDescription($proposition['label']);
+                $proposal->setLikes(rand(0, 12));
+                $proposal->setProgressionType(rand(0, 2));
+                if ($proposal->getProgressionType() == Proposal::PROGRESSION_NUMBER)
+                    $proposal->setProgressionMax(rand(3, 20));
+                $proposal->setStatus(rand(0, 3));
+                if ($proposal->getStatus() == Proposal::COMPLETED)
+                    $proposal->setProgression($proposal->getProgressionMax());
+                if ($proposal->getStatus() == Proposal::RUNNING && $proposal->getProgressionType() == Proposal::PROGRESSION_NUMBER))
+                    $proposal->setProgression(rand(1, $proposal->getProgressionMax()-1));
 
+                /** @var Category $cat */
                 $cat = $this->em->getRepository(Category::class)
                     ->findOneBy(['slug' => $proposition['st']]);
 
