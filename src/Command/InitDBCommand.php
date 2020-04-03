@@ -142,7 +142,7 @@ class InitDBCommand extends Command
                 $proposal->setStatus(rand(0, 3));
                 if ($proposal->getStatus() == Proposal::COMPLETED)
                     $proposal->setProgression($proposal->getProgressionMax());
-                if ($proposal->getStatus() == Proposal::RUNNING && $proposal->getProgressionType() == Proposal::PROGRESSION_NUMBER))
+                if ($proposal->getStatus() == Proposal::RUNNING && $proposal->getProgressionType() == Proposal::PROGRESSION_NUMBER)
                     $proposal->setProgression(rand(1, $proposal->getProgressionMax()-1));
 
                 /** @var Category $cat */
