@@ -11,7 +11,14 @@ use Doctrine\ORM\Mapping as ORM;
 /**
  * @ApiResource(
  *     collectionOperations={"get"},
- *     itemOperations={"get"}
+ *     itemOperations={
+ *      "get",
+ *      "like_publication"={
+ *             "method"="POST",
+ *             "path"="/people/{id}/subscribe",
+ *             "controller"=SubscribePerson::class,
+ *         }
+ *     }
  * )
  * @ORM\Entity
  */
@@ -35,9 +42,15 @@ class Person
      */
     private $proposals;
 
+    /**
+     * @ORM\ManyToMany(targetEntity="App\Entity\Device", inversedBy="peoples")
+     */
+    private $subscribers;
+
     public function __construct()
     {
         $this->proposals = new ArrayCollection();
+        $this->subscribers = new ArrayCollection();
     }
 
     public function getId(): ?int
@@ -83,6 +96,32 @@ class Person
             if ($proposal->getPerson() === $this) {
                 $proposal->setPerson(null);
             }
+        }
+
+        return $this;
+    }
+
+    /**
+     * @return Collection|Device[]
+     */
+    public function getSubscribers(): Collection
+    {
+        return $this->subscribers;
+    }
+
+    public function addSubscriber(Device $subscriber): self
+    {
+        if (!$this->subscribers->contains($subscriber)) {
+            $this->subscribers[] = $subscriber;
+        }
+
+        return $this;
+    }
+
+    public function removeSubscriber(Device $subscriber): self
+    {
+        if ($this->subscribers->contains($subscriber)) {
+            $this->subscribers->removeElement($subscriber);
         }
 
         return $this;

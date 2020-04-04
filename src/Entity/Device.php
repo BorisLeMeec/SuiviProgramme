@@ -19,7 +19,7 @@ class Device
     private $id;
 
     /**
-     * @ORM\Column(type="string", length=255)
+     * @ORM\Column(type="string", length=700)
      */
     private $token;
 
@@ -28,9 +28,15 @@ class Device
      */
     private $favorites;
 
+    /**
+     * @ORM\ManyToMany(targetEntity="App\Entity\Person", mappedBy="subscribers")
+     */
+    private $peoples;
+
     public function __construct()
     {
         $this->favorites = new ArrayCollection();
+        $this->peoples = new ArrayCollection();
     }
 
     public function getId(): ?int
@@ -73,6 +79,34 @@ class Device
         if ($this->favorites->contains($favorite)) {
             $this->favorites->removeElement($favorite);
             $favorite->removeFollower($this);
+        }
+
+        return $this;
+    }
+
+    /**
+     * @return Collection|Person[]
+     */
+    public function getPeoples(): Collection
+    {
+        return $this->peoples;
+    }
+
+    public function addPeople(Person $people): self
+    {
+        if (!$this->peoples->contains($people)) {
+            $this->peoples[] = $people;
+            $people->addSubscriber($this);
+        }
+
+        return $this;
+    }
+
+    public function removePeople(Person $people): self
+    {
+        if ($this->peoples->contains($people)) {
+            $this->peoples->removeElement($people);
+            $people->removeSubscriber($this);
         }
 
         return $this;
