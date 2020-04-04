@@ -13,7 +13,12 @@ use App\Entity\Device;
 use App\Entity\Person;
 use App\Entity\Proposal;
 use Doctrine\ORM\EntityManagerInterface;
+use Symfony\Component\HttpFoundation\JsonResponse;
 use Symfony\Component\HttpFoundation\Request;
+use Symfony\Component\Validator\Constraints\Json;
+use Minishlink\WebPush\WebPush;
+use Minishlink\WebPush\Subscription;
+
 
 class SubscribePerson
 {
@@ -27,17 +32,33 @@ class SubscribePerson
         $this->em = $em;
     }
 
-    public function __invoke(Person $data, Request $request): Person
+    public function __invoke(Person $data, Request $request)
     {
         $request = json_decode($request->getContent());
-        if (isset($request->token)) {
-            $device = $this->getOrCreateDevice($request->token);
-
-            $device->addPeople($data);
+        if (!isset($request->token)) {
+            return new JsonResponse(json_encode(['status'=> 'nok']), 400);
         }
+        $device = $this->getOrCreateDevice(json_encode($request->token));
 
+        $device->addPeople($data);
         $this->em->flush();
-        return $data;
+
+        $this->sendNotifWelcome($device);
+        return new JsonResponse(json_encode(['status'=> 'ok']), 201);
+    }
+
+    public function sendNotifWelcome(Device $device) {
+        $token = json_decode($device->getToken(), true);
+
+        $wp = new WebPush();
+        $wp->sendNotification(
+            Subscription::create([
+                'endpoint' => $token['endpoint'],
+                'publicKey' => $token['keys']['p256dh'],
+                'authToken' => $token['keys']['auth']
+            ]),
+            '{msg:"test"}'
+        );
     }
 
     public function getOrCreateDevice($token) : Device{
